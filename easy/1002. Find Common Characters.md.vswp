@@ -1,0 +1,55 @@
+vnote_backup_file_826537664 E:/code/leetcode/easy/1002. Find Common Characters.md
+**1002. Find Common Characters**
+
+Given an array A of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list (including duplicates).  For example, if a character occurs 3 times in all strings but not 4 times, you need to include that character three times in the final answer.
+
+You may return the answer in any order.
+
+ 
+
+**Example 1:**
+```
+Input: ["bella","label","roller"]
+Output: ["e","l","l"]
+```
+**Example 2:**
+```
+Input: ["cool","lock","cook"]
+Output: ["c","o"]
+ ```
+
+**Note:**
+```
+1 <= A.length <= 100
+1 <= A[i].length <= 100
+A[i][j] is a lowercase letter
+```
+**Solution:**
+```java
+class Solution {
+    public List<String> commonChars(String[] A) {
+        Map<Character, Integer> insect_prev = new HashMap<>();
+        for(char c : A[A.length -1].toCharArray()) {                        
+            insect_prev.put(c,  insect_prev.getOrDefault(c, 0) + 1);           
+        }
+        List res = new ArrayList();
+        Map<Character, Integer> insect = null;
+        int index = 0;
+        for(int i = A.length -1; i >= 0; i--){
+            insect = new HashMap<>();
+            for(char c : A[i].toCharArray()) {
+               if(insect_prev.containsKey(c) && insect_prev.get(c) > 0) {
+                   insect.put(c, insect.getOrDefault(c, 0) + 1); 
+                   insect_prev.put(c,  insect_prev.get(c) - 1); 
+                   if(index == A.length -1) {
+                       res.add(Character.toString(c));
+                   }                  
+               }
+            }
+            insect_prev = insect;
+            index++;
+        }
+       return res;
+    }
+}
+```
