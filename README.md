@@ -3,8 +3,14 @@ Leetcode solution<br/>
 [1. Two Sum](https://gitee.com/hugh_sun/leetcode/blob/master//easy/1.%20Two%20Sum.md)<br/>
 [7. Reverse Integer](https://gitee.com/hugh_sun/leetcode/blob/master/easy/7.%20Reverse%20Integer.md)<br/>
 [9. Palindrome Number](https://gitee.com/hugh_sun/leetcode/blob/master/easy/9.%20Palindrome%20Number.md)<br/>
+[26. Remove Duplicates from Sorted Array]()<br/>
+[27. Remove Element]()<br/>
+[35. Search Insert Position]()<br/>
+[53. Maximum Subarray]()<br/>
+[66. Plus One]()<br/>
 [118. Pascal's Triangle](https://gitee.com/hugh_sun/leetcode/blob/master/easy/118.%20Pascal's%20Triangle.md)<br/>
 [119. Pascal's Triangle II](https://gitee.com/hugh_sun/leetcode/blob/master/easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[189. Rotate Array]()<br/>
 [993. Cousins in Binary Tree](https://gitee.com/hugh_sun/leetcode/blob/master/easy/993.%20Cousins%20in%20Binary%20Tree.md)<br/>
 [994. Rotting Oranges](https://gitee.com/hugh_sun/leetcode/blob/master/easy/994.%20Rotting%20Oranges.md)<br/>
 [997. Find the Town Judge](https://gitee.com/hugh_sun/leetcode/blob/master/easy/997.%20Find%20the%20Town%20Judge.md)<br/>
