@@ -6,11 +6,22 @@ Leetcode solution<br/>
 [26. Remove Duplicates from Sorted Array](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)<br/>
 [27. Remove Element](./easy/27.%20Remove%20Element.md)<br/>
 [35. Search Insert Position](./easy/35.%20Search%20Insert%20Position.md)<br/>
+[38. Count and Say](./easy/38.%20Count%20and%20Say.md)<br/>
 [53. Maximum Subarray](./easy/53.%20Maximum%20Subarray.md)<br/>
 [66. Plus One](./easy/66.%20Plus%20One.md)<br/>
+[67. Add Binary](./easy/67.%20Add%20Binary.md)<br/>
+[69. Sqrt(x)](./easy/67.%20Add%20Binary.md)<br/>
+[70. Climbing Stairs](./easy/67.%20Add%20Binary.md)<br/>
 [118. Pascal's Triangle](./easy/118.%20Pascal's%20Triangle.md)<br/>
 [119. Pascal's Triangle II](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[121. Best Time to Buy and Sell Stock](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[122. Best Time to Buy and Sell Stock II](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[167. Two Sum II - Input array is sorted](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[169. Majority Element](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
 [189. Rotate Array](./easy/189.%20Rotate%20Array.md)<br/>
+[217. Contains Duplicate](./easy/189.%20Rotate%20Array.md)<br/>
+[219. Contains Duplicate II](./easy/189.%20Rotate%20Array.md)<br/>
+[268. Missing Number](./easy/189.%20Rotate%20Array.md)<br/>
 [993. Cousins in Binary Tree](./easy/993.%20Cousins%20in%20Binary%20Tree.md)<br/>
 [994. Rotting Oranges](./easy/994.%20Rotting%20Oranges.md)<br/>
 [997. Find the Town Judge](./easy/997.%20Find%20the%20Town%20Judge.md)<br/>
