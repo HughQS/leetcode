@@ -1,5 +1,6 @@
-# leetcode
+# Leetcode
 Leetcode solution<br/>
+## Easy
 [1. Two Sum](./easy/1.%20Two%20Sum.md)<br/>
 [7. Reverse Integer](./easy/7.%20Reverse%20Integer.md)<br/>
 [9. Palindrome Number](./easy/9.%20Palindrome%20Number.md)<br/>
@@ -10,18 +11,18 @@ Leetcode solution<br/>
 [53. Maximum Subarray](./easy/53.%20Maximum%20Subarray.md)<br/>
 [66. Plus One](./easy/66.%20Plus%20One.md)<br/>
 [67. Add Binary](./easy/67.%20Add%20Binary.md)<br/>
-[69. Sqrt(x)](./easy/67.%20Add%20Binary.md)<br/>
-[70. Climbing Stairs](./easy/67.%20Add%20Binary.md)<br/>
+[69. Sqrt(x)](./easy/69.%20Sqrt(x).md)<br/>
+[70. Climbing Stairs](./easy/70.%20Climbing%20Stairs.md)<br/>
 [118. Pascal's Triangle](./easy/118.%20Pascal's%20Triangle.md)<br/>
 [119. Pascal's Triangle II](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
-[121. Best Time to Buy and Sell Stock](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
-[122. Best Time to Buy and Sell Stock II](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
-[167. Two Sum II - Input array is sorted](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
-[169. Majority Element](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
+[121. Best Time to Buy and Sell Stock](./easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)<br/>
+[122. Best Time to Buy and Sell Stock II](./easy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)<br/>
+[167. Two Sum II - Input array is sorted](./easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)<br/>
+[169. Majority Element](./easy/169.%20Majority%20Element.md)<br/>
 [189. Rotate Array](./easy/189.%20Rotate%20Array.md)<br/>
-[217. Contains Duplicate](./easy/189.%20Rotate%20Array.md)<br/>
-[219. Contains Duplicate II](./easy/189.%20Rotate%20Array.md)<br/>
-[268. Missing Number](./easy/189.%20Rotate%20Array.md)<br/>
+[217. Contains Duplicate](./easy/217.%20Contains%20Duplicate.md)<br/>
+[219. Contains Duplicate II](./easy/219.%20Contains%20Duplicate%20II.md)<br/>
+[268. Missing Number](./easy/268.%20Missing%20Number.md)<br/>
 [993. Cousins in Binary Tree](./easy/993.%20Cousins%20in%20Binary%20Tree.md)<br/>
 [994. Rotting Oranges](./easy/994.%20Rotting%20Oranges.md)<br/>
 [997. Find the Town Judge](./easy/997.%20Find%20the%20Town%20Judge.md)<br/>
