@@ -13,6 +13,13 @@ Leetcode solution<br/>
 [67. Add Binary](./easy/67.%20Add%20Binary.md)<br/>
 [69. Sqrt(x)](./easy/69.%20Sqrt(x).md)<br/>
 [70. Climbing Stairs](./easy/70.%20Climbing%20Stairs.md)<br/>
+[83. Remove Duplicates from Sorted List](./easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)<br/>
+[100. Same Tree](./easy/100.%20Same%20Tree.md)<br/>
+[101. Symmetric Tree](./easy/101.%20Symmetric%20Tree.md)<br/>
+[104. Maximum Depth of Binary Tree](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)<br/>
+[107. Binary Tree Level Order Traversal II](./easy/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)<br/>
+[108. Convert Sorted Array to Binary Search Tree](./easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)<br/>
+[110. Balanced Binary Tree](./easy/110.%20Balanced%20Binary%20Tree.md)<br/>
 [118. Pascal's Triangle](./easy/118.%20Pascal's%20Triangle.md)<br/>
 [119. Pascal's Triangle II](./easy/119.%20Pascal's%20Triangle%20II.md)<br/>
 [121. Best Time to Buy and Sell Stock](./easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)<br/>
