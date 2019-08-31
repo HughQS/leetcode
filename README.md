@@ -9,6 +9,7 @@ Leetcode solution<br/>
 [35. Search Insert Position](./easy/35.%20Search%20Insert%20Position.md)<br/>
 [38. Count and Say](./easy/38.%20Count%20and%20Say.md)<br/>
 [53. Maximum Subarray](./easy/53.%20Maximum%20Subarray.md)<br/>
+[58. Length of Last Word](./easy/58.%20Length%20of%20Last%20Word.md)<br/>
 [66. Plus One](./easy/66.%20Plus%20One.md)<br/>
 [67. Add Binary](./easy/67.%20Add%20Binary.md)<br/>
 [69. Sqrt(x)](./easy/69.%20Sqrt(x).md)<br/>
