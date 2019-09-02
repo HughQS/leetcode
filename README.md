@@ -33,7 +33,15 @@ Leetcode solution<br/>
 [155. Min Stack](./easy/155.%20Min%20Stack.md)<br/>
 [160. Intersection of Two Linked Lists](./easy/160.%20Intersection%20of%20Two%20Linked%20Lists.md)<br/>
 [167. Two Sum II - Input array is sorted](./easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)<br/>
+[168. Excel Sheet Column Title](./easy/168.%20Excel%20Sheet%20Column%20Title.md)<br/>
 [169. Majority Element](./easy/169.%20Majority%20Element.md)<br/>
+[171. Excel Sheet Column Number](./easy/171.%20Excel%20Sheet%20Column%20Number.md)<br/>
+[172. Factorial Trailing Zeroes](./easy/172.%20Factorial%20Trailing%20Zeroes.md)<br/>
+[175. Combine Two Tables](./easy/175.%20Combine%20Two%20Tables.md)<br/>
+[176. Second Highest Salary](./easy/176.%20Second%20Highest%20Salary.md)<br/>
+[181. Employees Earning More Than Their Managers](./easy/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)<br/>
+[182. Duplicate Emails](./easy/182.%20Duplicate%20Emails.md)<br/>
+[183. Customers Who Never Order](./easy/183.%20Customers%20Who%20Never%20Order.md)<br/>
 [189. Rotate Array](./easy/189.%20Rotate%20Array.md)<br/>
 [217. Contains Duplicate](./easy/217.%20Contains%20Duplicate.md)<br/>
 [219. Contains Duplicate II](./easy/219.%20Contains%20Duplicate%20II.md)<br/>
