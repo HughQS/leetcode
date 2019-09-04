@@ -43,6 +43,16 @@ Leetcode solution<br/>
 [182. Duplicate Emails](./easy/182.%20Duplicate%20Emails.md)<br/>
 [183. Customers Who Never Order](./easy/183.%20Customers%20Who%20Never%20Order.md)<br/>
 [189. Rotate Array](./easy/189.%20Rotate%20Array.md)<br/>
+[190. Reverse Bits](./easy/190.%20Reverse%20Bits.md)<br/>
+[191. Number of 1 Bits](./easy/191.%20Number%20of%201%20Bits.md)<br/>
+[193. Valid Phone Numbers](./easy/193.%20Valid%20Phone%20Numbers.md)<br/>
+[195. Tenth Line](./easy/195.%20Tenth%20Line.md)<br/>
+[196. Delete Duplicate Emails](./easy/196.%20Delete%20Duplicate%20Emails.md)<br/>
+[197. Rising Temperature](./easy/197.%20Rising%20Temperature.md)<br/>
+[198. House Robber](./easy/198.%20House%20Robber.md)<br/>
+[202. Happy Number](./easy/202.%20Happy%20Number.md)<br/>
+[203. Remove Linked List Elements](./easy/203.%20Remove%20Linked%20List%20Elements.md)<br/>
+[206. Reverse Linked List](./easy/206.%20Reverse%20Linked%20List.md)<br/>
 [217. Contains Duplicate](./easy/217.%20Contains%20Duplicate.md)<br/>
 [219. Contains Duplicate II](./easy/219.%20Contains%20Duplicate%20II.md)<br/>
 [268. Missing Number](./easy/268.%20Missing%20Number.md)<br/>
