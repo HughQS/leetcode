@@ -58,6 +58,7 @@ Leetcode solution <br/>
 [206. Reverse Linked List](./easy/206.%20Reverse%20Linked%20List.md) [easy]<br/>
 [217. Contains Duplicate](./easy/217.%20Contains%20Duplicate.md) [easy]<br/>
 [219. Contains Duplicate II](./easy/219.%20Contains%20Duplicate%20II.md) [easy]<br/>
+[226. Invert Binary Tree](./easy/226.%20Invert%20Binary%20Tree.md) [easy]<br/>
 [268. Missing Number](./easy/268.%20Missing%20Number.md) [easy]<br/>
 [993. Cousins in Binary Tree](./easy/993.%20Cousins%20in%20Binary%20Tree.md) [easy]<br/>
 [994. Rotting Oranges](./easy/994.%20Rotting%20Oranges.md) [easy]<br/>
