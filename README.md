@@ -124,6 +124,9 @@ Leetcode solution <br/>
 [532. K-diff Pairs in an Array.md](./easy/532.%20K-diff%20Pairs%20in%20an%20Array.md)   [easy]<br/> 
 [538. Convert BST to Greater Tree.md](./easy/538.%20Convert%20BST%20to%20Greater%20Tree.md)   [easy]<br/> 
 [541. Reverse String II.md](./easy/541.%20Reverse%20String%20II.md)   [easy]<br/> 
+[543. Diameter of Binary Tree.md](./easy/543.%20Diameter%20of%20Binary%20Tree.md)   [easy]<br/> 
+[551. Student Attendance Record I.md](./easy/551.%20Student%20Attendance%20Record%20I.md)   [easy]<br/> 
+[557. Reverse Words in a String III.md](./easy/557.%20Reverse%20Words%20in%20a%20String%20III.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
