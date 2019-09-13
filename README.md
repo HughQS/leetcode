@@ -118,6 +118,12 @@ Leetcode solution <br/>
 [506. Relative Ranks.md](./easy/506.%20Relative%20Ranks.md)   [easy]<br/> 
 [507. Perfect Number.md](./easy/507.%20Perfect%20Number.md)   [easy]<br/> 
 [509. Fibonacci Number.md](./easy/509.%20Fibonacci%20Number.md)   [easy]<br/> 
+[520. Detect Capital.md](./easy/520.%20Detect%20Capital.md)   [easy]<br/> 
+[521. Longest Uncommon Subsequence I.md](./easy/521.%20Longest%20Uncommon%20Subsequence%20I.md)   [easy]<br/> 
+[530. Minimum Absolute Difference in BST.md](./easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)   [easy]<br/> 
+[532. K-diff Pairs in an Array.md](./easy/532.%20K-diff%20Pairs%20in%20an%20Array.md)   [easy]<br/> 
+[538. Convert BST to Greater Tree.md](./easy/538.%20Convert%20BST%20to%20Greater%20Tree.md)   [easy]<br/> 
+[541. Reverse String II.md](./easy/541.%20Reverse%20String%20II.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
