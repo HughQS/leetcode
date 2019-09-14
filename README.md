@@ -127,6 +127,16 @@ Leetcode solution <br/>
 [543. Diameter of Binary Tree.md](./easy/543.%20Diameter%20of%20Binary%20Tree.md)   [easy]<br/> 
 [551. Student Attendance Record I.md](./easy/551.%20Student%20Attendance%20Record%20I.md)   [easy]<br/> 
 [557. Reverse Words in a String III.md](./easy/557.%20Reverse%20Words%20in%20a%20String%20III.md)   [easy]<br/> 
+[558. Quad Tree Intersection.md](./easy/558.%20Quad%20Tree%20Intersection.md)   [easy]<br/> 
+[559. Maximum Depth of N-ary Tree.md](./easy/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)   [easy]<br/> 
+[561. Array Partition I.md](./easy/561.%20Array%20Partition%20I.md)   [easy]<br/> 
+[563. Binary Tree Tilt.md](./easy/563.%20Binary%20Tree%20Tilt.md)   [easy]<br/> 
+[566. Reshape the Matrix.md](./easy/566.%20Reshape%20the%20Matrix.md)   [easy]<br/> 
+[572. Subtree of Another Tree.md](./easy/572.%20Subtree%20of%20Another%20Tree.md)   [easy]<br/> 
+[575. Distribute Candies.md](./easy/575.%20Distribute%20Candies.md)   [easy]<br/> 
+[581. Shortest Unsorted Continuous Subarray.md](./easy/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)   [easy]<br/> 
+[589. N-ary Tree Preorder Traversal.md](./easy/589.%20N-ary%20Tree%20Preorder%20Traversal.md)   [easy]<br/> 
+[590. N-ary Tree Postorder Traversal.md](./easy/590.%20N-ary%20Tree%20Postorder%20Traversal.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
