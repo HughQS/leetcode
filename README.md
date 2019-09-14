@@ -137,6 +137,11 @@ Leetcode solution <br/>
 [581. Shortest Unsorted Continuous Subarray.md](./easy/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)   [easy]<br/> 
 [589. N-ary Tree Preorder Traversal.md](./easy/589.%20N-ary%20Tree%20Preorder%20Traversal.md)   [easy]<br/> 
 [590. N-ary Tree Postorder Traversal.md](./easy/590.%20N-ary%20Tree%20Postorder%20Traversal.md)   [easy]<br/> 
+[594. Longest Harmonious Subsequence.md](./easy/594.%20Longest%20Harmonious%20Subsequence.md)   [easy]<br/> 
+[595. Big Countries.md](./easy/595.%20Big%20Countries.md)   [easy]<br/> 
+[596. Classes More Than 5 Students.md](./easy/596.%20Classes%20More%20Than%205%20Students.md)   [easy]<br/> 
+[598. Range Addition II.md](./easy/598.%20Range%20Addition%20II.md)   [easy]<br/> 
+[599. Minimum Index Sum of Two Lists.md](./easy/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
