@@ -142,6 +142,16 @@ Leetcode solution <br/>
 [596. Classes More Than 5 Students.md](./easy/596.%20Classes%20More%20Than%205%20Students.md)   [easy]<br/> 
 [598. Range Addition II.md](./easy/598.%20Range%20Addition%20II.md)   [easy]<br/> 
 [599. Minimum Index Sum of Two Lists.md](./easy/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)   [easy]<br/> 
+[605. Can Place Flowers.md](./easy/605.%20Can%20Place%20Flowers.md)   [easy]<br/> 
+[606. Construct String from Binary Tree.md](./easy/606.%20Construct%20String%20from%20Binary%20Tree.md)   [easy]<br/> 
+[617. Merge Two Binary Trees.md](./easy/617.%20Merge%20Two%20Binary%20Trees.md)   [easy]<br/> 
+[620. Not Boring Movies.md](./easy/620.%20Not%20Boring%20Movies.md)   [easy]<br/> 
+[627. Swap Salary.md](./easy/627.%20Swap%20Salary.md)   [easy]<br/> 
+[628. Maximum Product of Three Numbers.md](./easy/628.%20Maximum%20Product%20of%20Three%20Numbers.md)   [easy]<br/> 
+[633. Sum of Square Numbers.md](./easy/633.%20Sum%20of%20Square%20Numbers.md)   [easy]<br/> 
+[637. Average of Levels in Binary Tree.md](./easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)   [easy]<br/> 
+[643. Maximum Average Subarray I.md](./easy/643.%20Maximum%20Average%20Subarray%20I.md)   [easy]<br/> 
+[645. Set Mismatch.md](./easy/645.%20Set%20Mismatch.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
