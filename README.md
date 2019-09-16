@@ -152,6 +152,10 @@ Leetcode solution <br/>
 [637. Average of Levels in Binary Tree.md](./easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)   [easy]<br/> 
 [643. Maximum Average Subarray I.md](./easy/643.%20Maximum%20Average%20Subarray%20I.md)   [easy]<br/> 
 [645. Set Mismatch.md](./easy/645.%20Set%20Mismatch.md)   [easy]<br/> 
+[653. Two Sum IV - Input is a BST.md](./easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)   [easy]<br/> 
+[657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   [easy]<br/> 
+[661. Image Smoother.md](./easy/661.%20Image%20Smoother.md)   [easy]<br/> 
+[665. Non-decreasing Array.md](./easy/665.%20Non-decreasing%20Array.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
