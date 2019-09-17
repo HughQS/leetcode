@@ -156,6 +156,12 @@ Leetcode solution <br/>
 [657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   [easy]<br/> 
 [661. Image Smoother.md](./easy/661.%20Image%20Smoother.md)   [easy]<br/> 
 [665. Non-decreasing Array.md](./easy/665.%20Non-decreasing%20Array.md)   [easy]<br/> 
+[669. Trim a Binary Search Tree.md](./easy/669.%20Trim%20a%20Binary%20Search%20Tree.md)   [easy]<br/> 
+[671. Second Minimum Node In a Binary Tree.md](./easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)   [easy]<br/> 
+[674. Longest Continuous Increasing Subsequence.md](./easy/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)   [easy]<br/> 
+[680. Valid Palindrome II.md](./easy/680.%20Valid%20Palindrome%20II.md)   [easy]<br/> 
+[682. Baseball Game.md](./easy/682.%20Baseball%20Game.md)   [easy]<br/> 
+[686. Repeated String Match.md](./easy/686.%20Repeated%20String%20Match.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
