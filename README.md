@@ -162,6 +162,11 @@ Leetcode solution <br/>
 [680. Valid Palindrome II.md](./easy/680.%20Valid%20Palindrome%20II.md)   [easy]<br/> 
 [682. Baseball Game.md](./easy/682.%20Baseball%20Game.md)   [easy]<br/> 
 [686. Repeated String Match.md](./easy/686.%20Repeated%20String%20Match.md)   [easy]<br/> 
+[687. Longest Univalue Path.md](./easy/687.%20Longest%20Univalue%20Path.md)   [easy]<br/> 
+[690. Employee Importance.md](./easy/690.%20Employee%20Importance.md)   [easy]<br/> 
+[693. Binary Number with Alternating Bits.md](./easy/693.%20Binary%20Number%20with%20Alternating%20Bits.md)   [easy]<br/> 
+[696. Count Binary Substrings.md](./easy/696.%20Count%20Binary%20Substrings.md)   [easy]<br/> 
+[697. Degree of an Array.md](./easy/697.%20Degree%20of%20an%20Array.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
