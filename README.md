@@ -167,6 +167,15 @@ Leetcode solution <br/>
 [693. Binary Number with Alternating Bits.md](./easy/693.%20Binary%20Number%20with%20Alternating%20Bits.md)   [easy]<br/> 
 [696. Count Binary Substrings.md](./easy/696.%20Count%20Binary%20Substrings.md)   [easy]<br/> 
 [697. Degree of an Array.md](./easy/697.%20Degree%20of%20an%20Array.md)   [easy]<br/> 
+[700. Search in a Binary Search Tree.md](./easy/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)   [easy]<br/> 
+[703. Kth Largest Element in a Stream.md](./easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md)   [easy]<br/> 
+[704. Binary Search.md](./easy/704.%20Binary%20Search.md)   [easy]<br/> 
+[705. Design HashSet.md](./easy/705.%20Design%20HashSet.md)   [easy]<br/> 
+[706. Design HashMap.md](./easy/706.%20Design%20HashMap.md)   [easy]<br/> 
+[707. Design Linked List.md](./easy/707.%20Design%20Linked%20List.md)   [easy]<br/> 
+[709. To Lower Case.md](./easy/709.%20To%20Lower%20Case.md)   [easy]<br/> 
+[717. 1-bit and 2-bit Characters.md](./easy/717.%201-bit%20and%202-bit%20Characters.md)   [easy]<br/> 
+[720. Longest Word in Dictionary.md](./easy/720.%20Longest%20Word%20in%20Dictionary.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
