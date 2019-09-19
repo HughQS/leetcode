@@ -176,6 +176,9 @@ Leetcode solution <br/>
 [709. To Lower Case.md](./easy/709.%20To%20Lower%20Case.md)   [easy]<br/> 
 [717. 1-bit and 2-bit Characters.md](./easy/717.%201-bit%20and%202-bit%20Characters.md)   [easy]<br/> 
 [720. Longest Word in Dictionary.md](./easy/720.%20Longest%20Word%20in%20Dictionary.md)   [easy]<br/> 
+[724. Find Pivot Index.md](./easy/724.%20Find%20Pivot%20Index.md)   [easy]<br/> 
+[728. Self Dividing Numbers.md](./easy/728.%20Self%20Dividing%20Numbers.md)   [easy]<br/> 
+[733. Flood Fill.md](./easy/733.%20Flood%20Fill.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
