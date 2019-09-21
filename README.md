@@ -179,6 +179,11 @@ Leetcode solution <br/>
 [724. Find Pivot Index.md](./easy/724.%20Find%20Pivot%20Index.md)   [easy]<br/> 
 [728. Self Dividing Numbers.md](./easy/728.%20Self%20Dividing%20Numbers.md)   [easy]<br/> 
 [733. Flood Fill.md](./easy/733.%20Flood%20Fill.md)   [easy]<br/> 
+[744. Find Smallest Letter Greater Than Target.md](./easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)   [easy]<br/> 
+[747. Largest Number At Least Twice of Others.md](./easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)   [easy]<br/> 
+[748. Shortest Completing Word.md](./easy/748.%20Shortest%20Completing%20Word.md)   [easy]<br/> 
+[784. Letter Case Permutation.md](./easy/784.%20Letter%20Case%20Permutation.md)   [easy]<br/> 
+[788. Rotated Digits.md](./easy/788.%20Rotated%20Digits.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
