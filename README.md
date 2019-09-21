@@ -182,6 +182,10 @@ Leetcode solution <br/>
 [744. Find Smallest Letter Greater Than Target.md](./easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)   [easy]<br/> 
 [747. Largest Number At Least Twice of Others.md](./easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)   [easy]<br/> 
 [748. Shortest Completing Word.md](./easy/748.%20Shortest%20Completing%20Word.md)   [easy]<br/> 
+[754. Reach a Number.md](./easy/754.%20Reach%20a%20Number.md)   [easy]<br/> 
+[766. Toeplitz Matrix.md](./easy/766.%20Toeplitz%20Matrix.md)   [easy]<br/> 
+[771. Jewels and Stones.md](./easy/771.%20Jewels%20and%20Stones.md)   [easy]<br/> 
+[783. Minimum Distance Between BST Nodes.md](./easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)   [easy]<br/> 
 [784. Letter Case Permutation.md](./easy/784.%20Letter%20Case%20Permutation.md)   [easy]<br/> 
 [788. Rotated Digits.md](./easy/788.%20Rotated%20Digits.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
