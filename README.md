@@ -183,11 +183,15 @@ Leetcode solution <br/>
 [747. Largest Number At Least Twice of Others.md](./easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)   [easy]<br/> 
 [748. Shortest Completing Word.md](./easy/748.%20Shortest%20Completing%20Word.md)   [easy]<br/> 
 [754. Reach a Number.md](./easy/754.%20Reach%20a%20Number.md)   [easy]<br/> 
+[762. Prime Number of Set Bits in Binary Representation.md](./easy/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.md)   [easy]<br/> 
 [766. Toeplitz Matrix.md](./easy/766.%20Toeplitz%20Matrix.md)   [easy]<br/> 
 [771. Jewels and Stones.md](./easy/771.%20Jewels%20and%20Stones.md)   [easy]<br/> 
 [783. Minimum Distance Between BST Nodes.md](./easy/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md)   [easy]<br/> 
 [784. Letter Case Permutation.md](./easy/784.%20Letter%20Case%20Permutation.md)   [easy]<br/> 
 [788. Rotated Digits.md](./easy/788.%20Rotated%20Digits.md)   [easy]<br/> 
+[796. Rotate String.md](./easy/796.%20Rotate%20String.md)   [easy]<br/> 
+[804. Unique Morse Code Words.md](./easy/804.%20Unique%20Morse%20Code%20Words.md)   [easy]<br/> 
+[806. Number of Lines To Write String.md](./easy/806.%20Number%20of%20Lines%20To%20Write%20String.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
