@@ -192,6 +192,10 @@ Leetcode solution <br/>
 [796. Rotate String.md](./easy/796.%20Rotate%20String.md)   [easy]<br/> 
 [804. Unique Morse Code Words.md](./easy/804.%20Unique%20Morse%20Code%20Words.md)   [easy]<br/> 
 [806. Number of Lines To Write String.md](./easy/806.%20Number%20of%20Lines%20To%20Write%20String.md)   [easy]<br/> 
+[811. Subdomain Visit Count.md](./easy/811.%20Subdomain%20Visit%20Count.md)   [easy]<br/> 
+[812. Largest Triangle Area.md](./easy/812.%20Largest%20Triangle%20Area.md)   [easy]<br/> 
+[819. Most Common Word.md](./easy/819.%20Most%20Common%20Word.md)   [easy]<br/> 
+[821. Shortest Distance to a Character.md](./easy/821.%20Shortest%20Distance%20to%20a%20Character.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
