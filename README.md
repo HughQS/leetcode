@@ -196,6 +196,12 @@ Leetcode solution <br/>
 [812. Largest Triangle Area.md](./easy/812.%20Largest%20Triangle%20Area.md)   [easy]<br/> 
 [819. Most Common Word.md](./easy/819.%20Most%20Common%20Word.md)   [easy]<br/> 
 [821. Shortest Distance to a Character.md](./easy/821.%20Shortest%20Distance%20to%20a%20Character.md)   [easy]<br/> 
+[824. Goat Latin.md](./easy/824.%20Goat%20Latin.md)   [easy]<br/> 
+[830. Positions of Large Groups.md](./easy/830.%20Positions%20of%20Large%20Groups.md)   [easy]<br/> 
+[832. Flipping an Image.md](./easy/832.%20Flipping%20an%20Image.md)   [easy]<br/> 
+[836. Rectangle Overlap.md](./easy/836.%20Rectangle%20Overlap.md)   [easy]<br/> 
+[840. Magic Squares In Grid.md](./easy/840.%20Magic%20Squares%20In%20Grid.md)   [easy]<br/> 
+[844. Backspace String Compare.md](./easy/844.%20Backspace%20String%20Compare.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
