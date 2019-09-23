@@ -202,6 +202,10 @@ Leetcode solution <br/>
 [836. Rectangle Overlap.md](./easy/836.%20Rectangle%20Overlap.md)   [easy]<br/> 
 [840. Magic Squares In Grid.md](./easy/840.%20Magic%20Squares%20In%20Grid.md)   [easy]<br/> 
 [844. Backspace String Compare.md](./easy/844.%20Backspace%20String%20Compare.md)   [easy]<br/> 
+[849. Maximize Distance to Closest Person.md](./easy/849.%20Maximize%20Distance%20to%20Closest%20Person.md)   [easy]<br/> 
+[852. Peak Index in a Mountain Array.md](./easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)   [easy]<br/> 
+[859. Buddy Strings.md](./easy/859.%20Buddy%20Strings.md)   [easy]<br/> 
+[860. Lemonade Change.md](./easy/860.%20Lemonade%20Change.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
