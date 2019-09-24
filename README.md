@@ -206,6 +206,14 @@ Leetcode solution <br/>
 [852. Peak Index in a Mountain Array.md](./easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)   [easy]<br/> 
 [859. Buddy Strings.md](./easy/859.%20Buddy%20Strings.md)   [easy]<br/> 
 [860. Lemonade Change.md](./easy/860.%20Lemonade%20Change.md)   [easy]<br/> 
+[867. Transpose Matrix.md](./easy/867.%20Transpose%20Matrix.md)   [easy]<br/> 
+[868. Binary Gap.md](./easy/868.%20Binary%20Gap.md)   [easy]<br/> 
+[872. Leaf-Similar Trees.md](./easy/872.%20Leaf-Similar%20Trees.md)   [easy]<br/> 
+[874. Walking Robot Simulation.md](./easy/874.%20Walking%20Robot%20Simulation.md)   [easy]<br/> 
+[876. Middle of the Linked List.md](./easy/876.%20Middle%20of%20the%20Linked%20List.md)   [easy]<br/> 
+[883. Projection Area of 3D Shapes.md](./easy/883.%20Projection%20Area%20of%203D%20Shapes.md)   [easy]<br/> 
+[884. Uncommon Words from Two Sentences.md](./easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)   [easy]<br/> 
+[888. Fair Candy Swap.md](./easy/888.%20Fair%20Candy%20Swap.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
