@@ -214,6 +214,17 @@ Leetcode solution <br/>
 [883. Projection Area of 3D Shapes.md](./easy/883.%20Projection%20Area%20of%203D%20Shapes.md)   [easy]<br/> 
 [884. Uncommon Words from Two Sentences.md](./easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)   [easy]<br/> 
 [888. Fair Candy Swap.md](./easy/888.%20Fair%20Candy%20Swap.md)   [easy]<br/> 
+[892. Surface Area of 3D Shapes.md](./easy/892.%20Surface%20Area%20of%203D%20Shapes.md)   [easy]<br/> 
+[893. Groups of Special-Equivalent Strings.md](./easy/893.%20Groups%20of%20Special-Equivalent%20Strings.md)   [easy]<br/> 
+[896. Monotonic Array.md](./easy/896.%20Monotonic%20Array.md)   [easy]<br/> 
+[897. Increasing Order Search Tree.md](./easy/897.%20Increasing%20Order%20Search%20Tree.md)   [easy]<br/> 
+[905. Sort Array By Parity.md](./easy/905.%20Sort%20Array%20By%20Parity.md)   [easy]<br/> 
+[908. Smallest Range I.md](./easy/908.%20Smallest%20Range%20I.md)   [easy]<br/> 
+[914. X of a Kind in a Deck of Cards.md](./easy/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)   [easy]<br/> 
+[917. Reverse Only Letters.md](./easy/917.%20Reverse%20Only%20Letters.md)   [easy]<br/> 
+[922. Sort Array By Parity II.md](./easy/922.%20Sort%20Array%20By%20Parity%20II.md)   [easy]<br/> 
+[925. Long Pressed Name.md](./easy/925.%20Long%20Pressed%20Name.md)   [easy]<br/> 
+[929. Unique Email Addresses.md](./easy/929.%20Unique%20Email%20Addresses.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
