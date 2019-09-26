@@ -225,6 +225,21 @@ Leetcode solution <br/>
 [922. Sort Array By Parity II.md](./easy/922.%20Sort%20Array%20By%20Parity%20II.md)   [easy]<br/> 
 [925. Long Pressed Name.md](./easy/925.%20Long%20Pressed%20Name.md)   [easy]<br/> 
 [929. Unique Email Addresses.md](./easy/929.%20Unique%20Email%20Addresses.md)   [easy]<br/> 
+[933. Number of Recent Calls.md](./easy/933.%20Number%20of%20Recent%20Calls.md)   [easy]<br/> 
+[937. Reorder Data in Log Files.md](./easy/937.%20Reorder%20Data%20in%20Log%20Files.md)   [easy]<br/> 
+[938. Range Sum of BST.md](./easy/938.%20Range%20Sum%20of%20BST.md)   [easy]<br/> 
+[941. Valid Mountain Array.md](./easy/941.%20Valid%20Mountain%20Array.md)   [easy]<br/> 
+[942. DI String Match.md](./easy/942.%20DI%20String%20Match.md)   [easy]<br/> 
+[944. Delete Columns to Make Sorted.md](./easy/944.%20Delete%20Columns%20to%20Make%20Sorted.md)   [easy]<br/> 
+[949. Largest Time for Given Digits.md](./easy/949.%20Largest%20Time%20for%20Given%20Digits.md)   [easy]<br/> 
+[953. Verifying an Alien Dictionary.md](./easy/953.%20Verifying%20an%20Alien%20Dictionary.md)   [easy]<br/> 
+[961. N-Repeated Element in Size 2N Array.md](./easy/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)   [easy]<br/> 
+[965. Univalued Binary Tree.md](./easy/965.%20Univalued%20Binary%20Tree.md)   [easy]<br/> 
+[970. Powerful Integers.md](./easy/970.%20Powerful%20Integers.md)   [easy]<br/> 
+[976. Largest Perimeter Triangle.md](./easy/976.%20Largest%20Perimeter%20Triangle.md)   [easy]<br/> 
+[977. Squares of a Sorted Array.md](./easy/977.%20Squares%20of%20a%20Sorted%20Array.md)   [easy]<br/> 
+[985. Sum of Even Numbers After Queries.md](./easy/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.md)   [easy]<br/> 
+[989. Add to Array-Form of Integer.md](./easy/989.%20Add%20to%20Array-Form%20of%20Integer.md)   [easy]<br/> 
 [993. Cousins in Binary Tree.md](./easy/993.%20Cousins%20in%20Binary%20Tree.md)   [easy]<br/> 
 [994. Rotting Oranges.md](./easy/994.%20Rotting%20Oranges.md)   [easy]<br/> 
 [997. Find the Town Judge.md](./easy/997.%20Find%20the%20Town%20Judge.md)   [easy]<br/> 
