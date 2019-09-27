@@ -253,3 +253,8 @@ Leetcode solution <br/>
 [1021. Remove Outermost Parentheses.md](./easy/1021.%20Remove%20Outermost%20Parentheses.md)   [easy]<br/> 
 [1022. Sum of Root To Leaf Binary Numbers.md](./easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)   [easy]<br/> 
 [1025. Divisor Game.md](./easy/1025.%20Divisor%20Game.md)   [easy]<br/> 
+[1029. Two City Scheduling.md](./easy/1029.%20Two%20City%20Scheduling.md)   [easy]<br/> 
+[1030. Matrix Cells in Distance Order.md](./easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)   [easy]<br/> 
+[1033. Moving Stones Until Consecutive.md](./easy/1033.%20Moving%20Stones%20Until%20Consecutive.md)   [easy]<br/> 
+[1037. Valid Boomerang.md](./easy/1037.%20Valid%20Boomerang.md)   [easy]<br/> 
+[1046. Last Stone Weight.md](./easy/1046.%20Last%20Stone%20Weight.md)   [easy]<br/> 
