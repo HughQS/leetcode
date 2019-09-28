@@ -257,4 +257,7 @@ Leetcode solution <br/>
 [1030. Matrix Cells in Distance Order.md](./easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)   [easy]<br/> 
 [1033. Moving Stones Until Consecutive.md](./easy/1033.%20Moving%20Stones%20Until%20Consecutive.md)   [easy]<br/> 
 [1037. Valid Boomerang.md](./easy/1037.%20Valid%20Boomerang.md)   [easy]<br/> 
+[1042. Flower Planting With No Adjacent.md](./easy/1042.%20Flower%20Planting%20With%20No%20Adjacent.md)   [easy]<br/> 
 [1046. Last Stone Weight.md](./easy/1046.%20Last%20Stone%20Weight.md)   [easy]<br/> 
+[1047. Remove All Adjacent Duplicates In String.md](./easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)   [easy]<br/> 
+[1051. Height Checker.md](./easy/1051.%20Height%20Checker.md)   [easy]<br/> 
