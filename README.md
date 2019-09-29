@@ -261,3 +261,22 @@ Leetcode solution <br/>
 [1046. Last Stone Weight.md](./easy/1046.%20Last%20Stone%20Weight.md)   [easy]<br/> 
 [1047. Remove All Adjacent Duplicates In String.md](./easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)   [easy]<br/> 
 [1051. Height Checker.md](./easy/1051.%20Height%20Checker.md)   [easy]<br/> 
+[1071. Greatest Common Divisor of Strings.md](./easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)   [easy]<br/> 
+[1078. Occurrences After Bigram.md](./easy/1078.%20Occurrences%20After%20Bigram.md)   [easy]<br/> 
+[1089. Duplicate Zeros.md](./easy/1089.%20Duplicate%20Zeros.md)   [easy]<br/> 
+[1103. Distribute Candies to People.md](./easy/1103.%20Distribute%20Candies%20to%20People.md)   [easy]<br/> 
+[1108. Defanging an IP Address.md](./easy/1108.%20Defanging%20an%20IP%20Address.md)   [easy]<br/> 
+[1114. Print in Order.md](./easy/1114.%20Print%20in%20Order.md)   [easy]<br/> 
+[1122. Relative Sort Array.md](./easy/1122.%20Relative%20Sort%20Array.md)   [easy]<br/> 
+[1128. Number of Equivalent Domino Pairs.md](./easy/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.md)   [easy]<br/> 
+[1137. N-th Tribonacci Number.md](./easy/1137.%20N-th%20Tribonacci%20Number.md)   [easy]<br/> 
+[1154. Day of the Year.md](./easy/1154.%20Day%20of%20the%20Year.md)   [easy]<br/> 
+[1160. Find Words That Can Be Formed by Characters.md](./easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.md)   [easy]<br/> 
+[1170. Compare Strings by Frequency of the Smallest Character.md](./easy/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.md)   [easy]<br/> 
+[1175. Prime Arrangements.md](./easy/1175.%20Prime%20Arrangements.md)   [easy]<br/> 
+[1179. Reformat Department Table.md](./easy/1179.%20Reformat%20Department%20Table.md)   [easy]<br/> 
+[1184. Distance Between Bus Stops.md](./easy/1184.%20Distance%20Between%20Bus%20Stops.md)   [easy]<br/> 
+[1185. Day of the Week.md](./easy/1185.%20Day%20of%20the%20Week.md)   [easy]<br/> 
+[1189. Maximum Number of Balloons.md](./easy/1189.%20Maximum%20Number%20of%20Balloons.md)   [easy]<br/> 
+[1200. Minimum Absolute Difference.md](./easy/1200.%20Minimum%20Absolute%20Difference.md)   [easy]<br/> 
+[1207. Unique Number of Occurrences.md](./easy/1207.%20Unique%20Number%20of%20Occurrences.md)   [easy]<br/> 
