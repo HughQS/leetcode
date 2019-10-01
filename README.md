@@ -5,6 +5,8 @@ Leetcode solution <br/>
 [1. Two Sum.md](./easy/1.%20Two%20Sum.md)   [easy]<br/> 
 [2. Add Two Numbers.md](./medium/2.%20Add%20Two%20Numbers.md)   [medium]<br/> 
 [3. Longest Substring Without Repeating Characters.md](./medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)   [medium]<br/> 
+[5. Longest Palindromic Substring.md](./medium/5.%20Longest%20Palindromic%20Substring.md)   [medium]<br/> 
+[6. ZigZag Conversion.md](./medium/6.%20ZigZag%20Conversion.md)   [medium]<br/> 
 [7. Reverse Integer.md](./easy/7.%20Reverse%20Integer.md)   [easy]<br/> 
 [9. Palindrome Number.md](./easy/9.%20Palindrome%20Number.md)   [easy]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
