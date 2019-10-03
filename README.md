@@ -8,7 +8,12 @@ Leetcode solution <br/>
 [5. Longest Palindromic Substring.md](./medium/5.%20Longest%20Palindromic%20Substring.md)   [medium]<br/> 
 [6. ZigZag Conversion.md](./medium/6.%20ZigZag%20Conversion.md)   [medium]<br/> 
 [7. Reverse Integer.md](./easy/7.%20Reverse%20Integer.md)   [easy]<br/> 
+[8. String to Integer (atoi).md](./medium/8.%20String%20to%20Integer%20%28atoi%29.md)   [medium]<br/> 
 [9. Palindrome Number.md](./easy/9.%20Palindrome%20Number.md)   [easy]<br/> 
+[11. Container With Most Water.md](./medium/11.%20Container%20With%20Most%20Water.md)   [medium]<br/> 
+[12. Integer to Roman.md](./medium/12.%20Integer%20to%20Roman.md)   [medium]<br/> 
+[15. 3Sum.md](./medium/15.%203Sum.md)   [medium]<br/> 
+[16. 3Sum Closest.md](./medium/16.%203Sum%20Closest.md)   [medium]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
 [35. Search Insert Position.md](./easy/35.%20Search%20Insert%20Position.md)   [easy]<br/> 
