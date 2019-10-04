@@ -14,6 +14,9 @@ Leetcode solution <br/>
 [12. Integer to Roman.md](./medium/12.%20Integer%20to%20Roman.md)   [medium]<br/> 
 [15. 3Sum.md](./medium/15.%203Sum.md)   [medium]<br/> 
 [16. 3Sum Closest.md](./medium/16.%203Sum%20Closest.md)   [medium]<br/> 
+[17. Letter Combinations of a Phone Number.md](./medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)   [medium]<br/> 
+[18. 4Sum.md](./medium/18.%204Sum.md)   [medium]<br/> 
+[19. Remove Nth Node From End of List.md](./medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)   [medium]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
 [35. Search Insert Position.md](./easy/35.%20Search%20Insert%20Position.md)   [easy]<br/> 
