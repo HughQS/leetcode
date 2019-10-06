@@ -21,6 +21,8 @@ Leetcode solution <br/>
 [24. Swap Nodes in Pairs.md](./medium/24.%20Swap%20Nodes%20in%20Pairs.md)   [medium]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
+[29. Divide Two Integers.md](./medium/29.%20Divide%20Two%20Integers.md)   [medium]<br/> 
+[31. Next Permutation.md](./medium/31.%20Next%20Permutation.md)   [medium]<br/> 
 [35. Search Insert Position.md](./easy/35.%20Search%20Insert%20Position.md)   [easy]<br/> 
 [38. Count and Say.md](./easy/38.%20Count%20and%20Say.md)   [easy]<br/> 
 [53. Maximum Subarray.md](./easy/53.%20Maximum%20Subarray.md)   [easy]<br/> 
