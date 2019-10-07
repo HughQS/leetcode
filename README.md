@@ -23,8 +23,13 @@ Leetcode solution <br/>
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
 [29. Divide Two Integers.md](./medium/29.%20Divide%20Two%20Integers.md)   [medium]<br/> 
 [31. Next Permutation.md](./medium/31.%20Next%20Permutation.md)   [medium]<br/> 
+[33. Search in Rotated Sorted Array.md](./medium/33.%20Search%20in%20Rotated%20Sorted%20Array.md)   [medium]<br/> 
+[34. Find First and Last Position of Element in Sorted Array.md](./medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)   [medium]<br/> 
 [35. Search Insert Position.md](./easy/35.%20Search%20Insert%20Position.md)   [easy]<br/> 
+[36. Valid Sudoku.md](./medium/36.%20Valid%20Sudoku.md)   [medium]<br/> 
 [38. Count and Say.md](./easy/38.%20Count%20and%20Say.md)   [easy]<br/> 
+[39. Combination Sum.md](./medium/39.%20Combination%20Sum.md)   [medium]<br/> 
+[40. Combination Sum II.md](./medium/40.%20Combination%20Sum%20II.md)   [medium]<br/> 
 [53. Maximum Subarray.md](./easy/53.%20Maximum%20Subarray.md)   [easy]<br/> 
 [58. Length of Last Word.md](./easy/58.%20Length%20of%20Last%20Word.md)   [easy]<br/> 
 [66. Plus One.md](./easy/66.%20Plus%20One.md)   [easy]<br/> 
