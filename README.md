@@ -33,7 +33,9 @@ Leetcode solution <br/>
 [43. Multiply Strings.md](./medium/43.%20Multiply%20Strings.md)   [medium]<br/> 
 [46. Permutations.md](./medium/46.%20Permutations.md)   [medium]<br/> 
 [47. Permutations II.md](./medium/47.%20Permutations%20II.md)   [medium]<br/> 
+[48. Rotate Image.md](./medium/48.%20Rotate%20Image.md)   [medium]<br/> 
 [49. Group Anagrams.md](./medium/49.%20Group%20Anagrams.md)   [medium]<br/> 
+[50. Pow(x, n).md](./medium/50.%20Pow%28x%2C%20n%29.md)   [medium]<br/> 
 [53. Maximum Subarray.md](./easy/53.%20Maximum%20Subarray.md)   [easy]<br/> 
 [58. Length of Last Word.md](./easy/58.%20Length%20of%20Last%20Word.md)   [easy]<br/> 
 [66. Plus One.md](./easy/66.%20Plus%20One.md)   [easy]<br/> 
