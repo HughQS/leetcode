@@ -30,6 +30,10 @@ Leetcode solution <br/>
 [38. Count and Say.md](./easy/38.%20Count%20and%20Say.md)   [easy]<br/> 
 [39. Combination Sum.md](./medium/39.%20Combination%20Sum.md)   [medium]<br/> 
 [40. Combination Sum II.md](./medium/40.%20Combination%20Sum%20II.md)   [medium]<br/> 
+[43. Multiply Strings.md](./medium/43.%20Multiply%20Strings.md)   [medium]<br/> 
+[46. Permutations.md](./medium/46.%20Permutations.md)   [medium]<br/> 
+[47. Permutations II.md](./medium/47.%20Permutations%20II.md)   [medium]<br/> 
+[49. Group Anagrams.md](./medium/49.%20Group%20Anagrams.md)   [medium]<br/> 
 [53. Maximum Subarray.md](./easy/53.%20Maximum%20Subarray.md)   [easy]<br/> 
 [58. Length of Last Word.md](./easy/58.%20Length%20of%20Last%20Word.md)   [easy]<br/> 
 [66. Plus One.md](./easy/66.%20Plus%20One.md)   [easy]<br/> 
