@@ -37,7 +37,13 @@ Leetcode solution <br/>
 [49. Group Anagrams.md](./medium/49.%20Group%20Anagrams.md)   [medium]<br/> 
 [50. Pow(x, n).md](./medium/50.%20Pow%28x%2C%20n%29.md)   [medium]<br/> 
 [53. Maximum Subarray.md](./easy/53.%20Maximum%20Subarray.md)   [easy]<br/> 
+[54. Spiral Matrix.md](./medium/54.%20Spiral%20Matrix.md)   [medium]<br/> 
+[55. Jump Game.md](./medium/55.%20Jump%20Game.md)   [medium]<br/> 
+[56. Merge Intervals.md](./medium/56.%20Merge%20Intervals.md)   [medium]<br/> 
 [58. Length of Last Word.md](./easy/58.%20Length%20of%20Last%20Word.md)   [easy]<br/> 
+[59. Spiral Matrix II.md](./medium/59.%20Spiral%20Matrix%20II.md)   [medium]<br/> 
+[60. Permutation Sequence.md](./medium/60.%20Permutation%20Sequence.md)   [medium]<br/> 
+[61. Rotate List.md](./medium/61.%20Rotate%20List.md)   [medium]<br/> 
 [66. Plus One.md](./easy/66.%20Plus%20One.md)   [easy]<br/> 
 [67. Add Binary.md](./easy/67.%20Add%20Binary.md)   [easy]<br/> 
 [69. Sqrt(x).md](./easy/69.%20Sqrt%28x%29.md)   [easy]<br/> 
