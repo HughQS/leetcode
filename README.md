@@ -44,6 +44,9 @@ Leetcode solution <br/>
 [59. Spiral Matrix II.md](./medium/59.%20Spiral%20Matrix%20II.md)   [medium]<br/> 
 [60. Permutation Sequence.md](./medium/60.%20Permutation%20Sequence.md)   [medium]<br/> 
 [61. Rotate List.md](./medium/61.%20Rotate%20List.md)   [medium]<br/> 
+[62. Unique Paths.md](./medium/62.%20Unique%20Paths.md)   [medium]<br/> 
+[63. Unique Paths II.md](./medium/63.%20Unique%20Paths%20II.md)   [medium]<br/> 
+[64. Minimum Path Sum.md](./medium/64.%20Minimum%20Path%20Sum.md)   [medium]<br/> 
 [66. Plus One.md](./easy/66.%20Plus%20One.md)   [easy]<br/> 
 [67. Add Binary.md](./easy/67.%20Add%20Binary.md)   [easy]<br/> 
 [69. Sqrt(x).md](./easy/69.%20Sqrt%28x%29.md)   [easy]<br/> 
