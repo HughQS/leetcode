@@ -51,6 +51,8 @@ Leetcode solution <br/>
 [67. Add Binary.md](./easy/67.%20Add%20Binary.md)   [easy]<br/> 
 [69. Sqrt(x).md](./easy/69.%20Sqrt%28x%29.md)   [easy]<br/> 
 [70. Climbing Stairs.md](./easy/70.%20Climbing%20Stairs.md)   [easy]<br/> 
+[71. Simplify Path.md](./medium/71.%20Simplify%20Path.md)   [medium]<br/> 
+[73. Set Matrix Zeroes.md](./medium/73.%20Set%20Matrix%20Zeroes.md)   [medium]<br/> 
 [83. Remove Duplicates from Sorted List.md](./easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)   [easy]<br/> 
 [88. Merge Sorted Array.md](./easy/88.%20Merge%20Sorted%20Array.md)   [easy]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
