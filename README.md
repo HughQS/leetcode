@@ -56,6 +56,8 @@ Leetcode solution <br/>
 [74. Search a 2D Matrix.md](./medium/74.%20Search%20a%202D%20Matrix.md)   [medium]<br/> 
 [75. Sort Colors.md](./medium/75.%20Sort%20Colors.md)   [medium]<br/> 
 [77. Combinations.md](./medium/77.%20Combinations.md)   [medium]<br/> 
+[78. Subsets.md](./medium/78.%20Subsets.md)   [medium]<br/> 
+[79. Word Search.md](./medium/79.%20Word%20Search.md)   [medium]<br/> 
 [83. Remove Duplicates from Sorted List.md](./easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)   [easy]<br/> 
 [88. Merge Sorted Array.md](./easy/88.%20Merge%20Sorted%20Array.md)   [easy]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
