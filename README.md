@@ -59,6 +59,8 @@ Leetcode solution <br/>
 [78. Subsets.md](./medium/78.%20Subsets.md)   [medium]<br/> 
 [79. Word Search.md](./medium/79.%20Word%20Search.md)   [medium]<br/> 
 [80. Remove Duplicates from Sorted Array II.md](./medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)   [medium]<br/> 
+[81. Search in Rotated Sorted Array II.md](./medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)   [medium]<br/> 
+[82. Remove Duplicates from Sorted List II.md](./medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)   [medium]<br/> 
 [83. Remove Duplicates from Sorted List.md](./easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)   [easy]<br/> 
 [88. Merge Sorted Array.md](./easy/88.%20Merge%20Sorted%20Array.md)   [easy]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
