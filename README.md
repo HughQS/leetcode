@@ -62,7 +62,9 @@ Leetcode solution <br/>
 [81. Search in Rotated Sorted Array II.md](./medium/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)   [medium]<br/> 
 [82. Remove Duplicates from Sorted List II.md](./medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)   [medium]<br/> 
 [83. Remove Duplicates from Sorted List.md](./easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)   [easy]<br/> 
+[86. Partition List.md](./medium/86.%20Partition%20List.md)   [medium]<br/> 
 [88. Merge Sorted Array.md](./easy/88.%20Merge%20Sorted%20Array.md)   [easy]<br/> 
+[89. Gray Code.md](./medium/89.%20Gray%20Code.md)   [medium]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
 [101. Symmetric Tree.md](./easy/101.%20Symmetric%20Tree.md)   [easy]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
