@@ -66,7 +66,9 @@ Leetcode solution <br/>
 [88. Merge Sorted Array.md](./easy/88.%20Merge%20Sorted%20Array.md)   [easy]<br/> 
 [89. Gray Code.md](./medium/89.%20Gray%20Code.md)   [medium]<br/> 
 [90. Subsets II.md](./medium/90.%20Subsets%20II.md)   [medium]<br/> 
+[91. Decode Ways.md](./medium/91.%20Decode%20Ways.md)   [medium]<br/> 
 [92. Reverse Linked List II.md](./medium/92.%20Reverse%20Linked%20List%20II.md)   [medium]<br/> 
+[94. Binary Tree Inorder Traversal.md](./medium/94.%20Binary%20Tree%20Inorder%20Traversal.md)   [medium]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
 [101. Symmetric Tree.md](./easy/101.%20Symmetric%20Tree.md)   [easy]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
