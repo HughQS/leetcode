@@ -70,6 +70,8 @@ Leetcode solution <br/>
 [92. Reverse Linked List II.md](./medium/92.%20Reverse%20Linked%20List%20II.md)   [medium]<br/> 
 [93. Restore IP Addresses.md](./medium/93.%20Restore%20IP%20Addresses.md)   [medium]<br/> 
 [94. Binary Tree Inorder Traversal.md](./medium/94.%20Binary%20Tree%20Inorder%20Traversal.md)   [medium]<br/> 
+[95. Unique Binary Search Trees II.md](./medium/95.%20Unique%20Binary%20Search%20Trees%20II.md)   [medium]<br/> 
+[96. Unique Binary Search Trees.md](./medium/96.%20Unique%20Binary%20Search%20Trees.md)   [medium]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
 [101. Symmetric Tree.md](./easy/101.%20Symmetric%20Tree.md)   [easy]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
