@@ -72,8 +72,11 @@ Leetcode solution <br/>
 [94. Binary Tree Inorder Traversal.md](./medium/94.%20Binary%20Tree%20Inorder%20Traversal.md)   [medium]<br/> 
 [95. Unique Binary Search Trees II.md](./medium/95.%20Unique%20Binary%20Search%20Trees%20II.md)   [medium]<br/> 
 [96. Unique Binary Search Trees.md](./medium/96.%20Unique%20Binary%20Search%20Trees.md)   [medium]<br/> 
+[98. Validate Binary Search Tree.md](./medium/98.%20Validate%20Binary%20Search%20Tree.md)   [medium]<br/> 
 [100. Same Tree.md](./easy/100.%20Same%20Tree.md)   [easy]<br/> 
 [101. Symmetric Tree.md](./easy/101.%20Symmetric%20Tree.md)   [easy]<br/> 
+[102. Binary Tree Level Order Traversal.md](./medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)   [medium]<br/> 
+[103. Binary Tree Zigzag Level Order Traversal.md](./medium/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)   [medium]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
 [107. Binary Tree Level Order Traversal II.md](./easy/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)   [easy]<br/> 
 [108. Convert Sorted Array to Binary Search Tree.md](./easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)   [easy]<br/> 
