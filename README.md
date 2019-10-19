@@ -78,6 +78,7 @@ Leetcode solution <br/>
 [102. Binary Tree Level Order Traversal.md](./medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)   [medium]<br/> 
 [103. Binary Tree Zigzag Level Order Traversal.md](./medium/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)   [medium]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
+[105. Construct Binary Tree from Preorder and Inorder Traversal.md](./medium/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)   [medium]<br/> 
 [107. Binary Tree Level Order Traversal II.md](./easy/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)   [easy]<br/> 
 [108. Convert Sorted Array to Binary Search Tree.md](./easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)   [easy]<br/> 
 [110. Balanced Binary Tree.md](./easy/110.%20Balanced%20Binary%20Tree.md)   [easy]<br/> 
