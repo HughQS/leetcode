@@ -84,6 +84,8 @@ Leetcode solution <br/>
 [110. Balanced Binary Tree.md](./easy/110.%20Balanced%20Binary%20Tree.md)   [easy]<br/> 
 [111. Minimum Depth of Binary Tree.md](./easy/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
 [112. Path Sum.md](./easy/112.%20Path%20Sum.md)   [easy]<br/> 
+[113. Path Sum II.md](./medium/113.%20Path%20Sum%20II.md)   [medium]<br/> 
+[114. Flatten Binary Tree to Linked List.md](./medium/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)   [medium]<br/> 
 [118. Pascal's Triangle.md](./easy/118.%20Pascal%27s%20Triangle.md)   [easy]<br/> 
 [119. Pascal's Triangle II.md](./easy/119.%20Pascal%27s%20Triangle%20II.md)   [easy]<br/> 
 [121. Best Time to Buy and Sell Stock.md](./easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)   [easy]<br/> 
