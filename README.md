@@ -79,6 +79,7 @@ Leetcode solution <br/>
 [103. Binary Tree Zigzag Level Order Traversal.md](./medium/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)   [medium]<br/> 
 [104. Maximum Depth of Binary Tree.md](./easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)   [easy]<br/> 
 [105. Construct Binary Tree from Preorder and Inorder Traversal.md](./medium/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)   [medium]<br/> 
+[106. Construct Binary Tree from Inorder and Postorder Traversal.md](./medium/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)   [medium]<br/> 
 [107. Binary Tree Level Order Traversal II.md](./easy/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)   [easy]<br/> 
 [108. Convert Sorted Array to Binary Search Tree.md](./easy/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)   [easy]<br/> 
 [110. Balanced Binary Tree.md](./easy/110.%20Balanced%20Binary%20Tree.md)   [easy]<br/> 
@@ -91,6 +92,7 @@ Leetcode solution <br/>
 [121. Best Time to Buy and Sell Stock.md](./easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)   [easy]<br/> 
 [122. Best Time to Buy and Sell Stock II.md](./easy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)   [easy]<br/> 
 [125. Valid Palindrome.md](./easy/125.%20Valid%20Palindrome.md)   [easy]<br/> 
+[129. Sum Root to Leaf Numbers.md](./medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)   [medium]<br/> 
 [136. Single Number.md](./easy/136.%20Single%20Number.md)   [easy]<br/> 
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   [easy]<br/> 
 [155. Min Stack.md](./easy/155.%20Min%20Stack.md)   [easy]<br/> 
