@@ -92,9 +92,11 @@ Leetcode solution <br/>
 [117. Populating Next Right Pointers in Each Node II.md](./medium/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)   [medium]<br/> 
 [118. Pascal's Triangle.md](./easy/118.%20Pascal%27s%20Triangle.md)   [easy]<br/> 
 [119. Pascal's Triangle II.md](./easy/119.%20Pascal%27s%20Triangle%20II.md)   [easy]<br/> 
+[120. Triangle.md](./medium/120.%20Triangle.md)   [medium]<br/> 
 [121. Best Time to Buy and Sell Stock.md](./easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)   [easy]<br/> 
 [122. Best Time to Buy and Sell Stock II.md](./easy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)   [easy]<br/> 
 [125. Valid Palindrome.md](./easy/125.%20Valid%20Palindrome.md)   [easy]<br/> 
+[127. Word Ladder.md](./medium/127.%20Word%20Ladder.md)   [medium]<br/> 
 [129. Sum Root to Leaf Numbers.md](./medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)   [medium]<br/> 
 [136. Single Number.md](./easy/136.%20Single%20Number.md)   [easy]<br/> 
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   [easy]<br/> 
@@ -346,3 +348,4 @@ Leetcode solution <br/>
 [1189. Maximum Number of Balloons.md](./easy/1189.%20Maximum%20Number%20of%20Balloons.md)   [easy]<br/> 
 [1200. Minimum Absolute Difference.md](./easy/1200.%20Minimum%20Absolute%20Difference.md)   [easy]<br/> 
 [1207. Unique Number of Occurrences.md](./easy/1207.%20Unique%20Number%20of%20Occurrences.md)   [easy]<br/> 
+[1232. Check If It Is a Straight Line.md](./easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)   [easy]<br/> 
