@@ -102,6 +102,7 @@ Leetcode solution <br/>
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   [easy]<br/> 
 [155. Min Stack.md](./easy/155.%20Min%20Stack.md)   [easy]<br/> 
 [160. Intersection of Two Linked Lists.md](./easy/160.%20Intersection%20of%20Two%20Linked%20Lists.md)   [easy]<br/> 
+[162. Find Peak Element.md](./medium/162.%20Find%20Peak%20Element.md)   [medium]<br/> 
 [167. Two Sum II - Input array is sorted.md](./easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)   [easy]<br/> 
 [168. Excel Sheet Column Title.md](./easy/168.%20Excel%20Sheet%20Column%20Title.md)   [easy]<br/> 
 [169. Majority Element.md](./easy/169.%20Majority%20Element.md)   [easy]<br/> 
