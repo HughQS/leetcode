@@ -100,6 +100,7 @@ Leetcode solution <br/>
 [129. Sum Root to Leaf Numbers.md](./medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)   [medium]<br/> 
 [136. Single Number.md](./easy/136.%20Single%20Number.md)   [easy]<br/> 
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   [easy]<br/> 
+[152. Maximum Product Subarray.md](./medium/152.%20Maximum%20Product%20Subarray.md)   [medium]<br/> 
 [155. Min Stack.md](./easy/155.%20Min%20Stack.md)   [easy]<br/> 
 [160. Intersection of Two Linked Lists.md](./easy/160.%20Intersection%20of%20Two%20Linked%20Lists.md)   [easy]<br/> 
 [162. Find Peak Element.md](./medium/162.%20Find%20Peak%20Element.md)   [medium]<br/> 
@@ -110,6 +111,7 @@ Leetcode solution <br/>
 [172. Factorial Trailing Zeroes.md](./easy/172.%20Factorial%20Trailing%20Zeroes.md)   [easy]<br/> 
 [175. Combine Two Tables.md](./easy/175.%20Combine%20Two%20Tables.md)   [easy]<br/> 
 [176. Second Highest Salary.md](./easy/176.%20Second%20Highest%20Salary.md)   [easy]<br/> 
+[179. Largest Number.md](./medium/179.%20Largest%20Number.md)   [medium]<br/> 
 [181. Employees Earning More Than Their Managers.md](./easy/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md)   [easy]<br/> 
 [182. Duplicate Emails.md](./easy/182.%20Duplicate%20Emails.md)   [easy]<br/> 
 [183. Customers Who Never Order.md](./easy/183.%20Customers%20Who%20Never%20Order.md)   [easy]<br/> 
