@@ -128,10 +128,12 @@ Leetcode solution <br/>
 [204. Count Primes.md](./easy/204.%20Count%20Primes.md)   [easy]<br/> 
 [205. Isomorphic Strings.md](./easy/205.%20Isomorphic%20Strings.md)   [easy]<br/> 
 [206. Reverse Linked List.md](./easy/206.%20Reverse%20Linked%20List.md)   [easy]<br/> 
+[209. Minimum Size Subarray Sum.md](./medium/209.%20Minimum%20Size%20Subarray%20Sum.md)   [medium]<br/> 
 [217. Contains Duplicate.md](./easy/217.%20Contains%20Duplicate.md)   [easy]<br/> 
 [219. Contains Duplicate II.md](./easy/219.%20Contains%20Duplicate%20II.md)   [easy]<br/> 
 [225. Implement Stack using Queues.md](./easy/225.%20Implement%20Stack%20using%20Queues.md)   [easy]<br/> 
 [226. Invert Binary Tree.md](./easy/226.%20Invert%20Binary%20Tree.md)   [easy]<br/> 
+[229. Majority Element II.md](./medium/229.%20Majority%20Element%20II.md)   [medium]<br/> 
 [231. Power of Two.md](./easy/231.%20Power%20of%20Two.md)   [easy]<br/> 
 [232. Implement Queue using Stacks.md](./easy/232.%20Implement%20Queue%20using%20Stacks.md)   [easy]<br/> 
 [235. Lowest Common Ancestor of a Binary Search Tree.md](./easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   [easy]<br/> 
