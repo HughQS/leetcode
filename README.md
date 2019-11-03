@@ -133,17 +133,20 @@ Leetcode solution <br/>
 [219. Contains Duplicate II.md](./easy/219.%20Contains%20Duplicate%20II.md)   [easy]<br/> 
 [225. Implement Stack using Queues.md](./easy/225.%20Implement%20Stack%20using%20Queues.md)   [easy]<br/> 
 [226. Invert Binary Tree.md](./easy/226.%20Invert%20Binary%20Tree.md)   [easy]<br/> 
+[228. Summary Ranges.md](./medium/228.%20Summary%20Ranges.md)   [medium]<br/> 
 [229. Majority Element II.md](./medium/229.%20Majority%20Element%20II.md)   [medium]<br/> 
 [231. Power of Two.md](./easy/231.%20Power%20of%20Two.md)   [easy]<br/> 
 [232. Implement Queue using Stacks.md](./easy/232.%20Implement%20Queue%20using%20Stacks.md)   [easy]<br/> 
 [235. Lowest Common Ancestor of a Binary Search Tree.md](./easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   [easy]<br/> 
 [237. Delete Node in a Linked List.md](./easy/237.%20Delete%20Node%20in%20a%20Linked%20List.md)   [easy]<br/> 
+[238. Product of Array Except Self.md](./medium/238.%20Product%20of%20Array%20Except%20Self.md)   [medium]<br/> 
 [257. Binary Tree Paths.md](./easy/257.%20Binary%20Tree%20Paths.md)   [easy]<br/> 
 [258. Add Digits.md](./easy/258.%20Add%20Digits.md)   [easy]<br/> 
 [263. Ugly Number.md](./easy/263.%20Ugly%20Number.md)   [easy]<br/> 
 [268. Missing Number.md](./easy/268.%20Missing%20Number.md)   [easy]<br/> 
 [278. First Bad Version.md](./easy/278.%20First%20Bad%20Version.md)   [easy]<br/> 
 [283. Move Zeroes.md](./easy/283.%20Move%20Zeroes.md)   [easy]<br/> 
+[287. Find the Duplicate Number.md](./medium/287.%20Find%20the%20Duplicate%20Number.md)   [medium]<br/> 
 [290. Word Pattern.md](./easy/290.%20Word%20Pattern.md)   [easy]<br/> 
 [292. Nim Game.md](./easy/292.%20Nim%20Game.md)   [easy]<br/> 
 [299. Bulls and Cows.md](./easy/299.%20Bulls%20and%20Cows.md)   [easy]<br/> 
