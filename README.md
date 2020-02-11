@@ -18,6 +18,7 @@ Leetcode solution <br/>
 [18. 4Sum.md](./medium/18.%204Sum.md)   [medium]<br/> 
 [19. Remove Nth Node From End of List.md](./medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)   [medium]<br/> 
 [22. Generate Parentheses.md](./medium/22.%20Generate%20Parentheses.md)   [medium]<br/> 
+[23. Merge k Sorted Lists.md](./hard/23.%20Merge%20k%20Sorted%20Lists.md)   [hard]<br/> 
 [24. Swap Nodes in Pairs.md](./medium/24.%20Swap%20Nodes%20in%20Pairs.md)   [medium]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
@@ -30,6 +31,7 @@ Leetcode solution <br/>
 [38. Count and Say.md](./easy/38.%20Count%20and%20Say.md)   [easy]<br/> 
 [39. Combination Sum.md](./medium/39.%20Combination%20Sum.md)   [medium]<br/> 
 [40. Combination Sum II.md](./medium/40.%20Combination%20Sum%20II.md)   [medium]<br/> 
+[42. Trapping Rain Water.md](./hard/42.%20Trapping%20Rain%20Water.md)   [hard]<br/> 
 [43. Multiply Strings.md](./medium/43.%20Multiply%20Strings.md)   [medium]<br/> 
 [46. Permutations.md](./medium/46.%20Permutations.md)   [medium]<br/> 
 [47. Permutations II.md](./medium/47.%20Permutations%20II.md)   [medium]<br/> 
@@ -230,6 +232,7 @@ Leetcode solution <br/>
 [645. Set Mismatch.md](./easy/645.%20Set%20Mismatch.md)   [easy]<br/> 
 [653. Two Sum IV - Input is a BST.md](./easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)   [easy]<br/> 
 [657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   [easy]<br/> 
+[658. Find K Closest Elements.md](./medium/658.%20Find%20K%20Closest%20Elements.md)   [medium]<br/> 
 [661. Image Smoother.md](./easy/661.%20Image%20Smoother.md)   [easy]<br/> 
 [665. Non-decreasing Array.md](./easy/665.%20Non-decreasing%20Array.md)   [easy]<br/> 
 [669. Trim a Binary Search Tree.md](./easy/669.%20Trim%20a%20Binary%20Search%20Tree.md)   [easy]<br/> 
