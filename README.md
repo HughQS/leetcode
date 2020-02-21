@@ -20,6 +20,7 @@ Leetcode solution <br/>
 [22. Generate Parentheses.md](./medium/22.%20Generate%20Parentheses.md)   [medium]<br/> 
 [23. Merge k Sorted Lists.md](./hard/23.%20Merge%20k%20Sorted%20Lists.md)   [hard]<br/> 
 [24. Swap Nodes in Pairs.md](./medium/24.%20Swap%20Nodes%20in%20Pairs.md)   [medium]<br/> 
+[25. Reverse Nodes in k-Group.md](./hard/25.%20Reverse%20Nodes%20in%20k-Group.md)   [hard]<br/> 
 [26. Remove Duplicates from Sorted Array.md](./easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)   [easy]<br/> 
 [27. Remove Element.md](./easy/27.%20Remove%20Element.md)   [easy]<br/> 
 [29. Divide Two Integers.md](./medium/29.%20Divide%20Two%20Integers.md)   [medium]<br/> 
@@ -101,8 +102,17 @@ Leetcode solution <br/>
 [125. Valid Palindrome.md](./easy/125.%20Valid%20Palindrome.md)   [easy]<br/> 
 [127. Word Ladder.md](./medium/127.%20Word%20Ladder.md)   [medium]<br/> 
 [129. Sum Root to Leaf Numbers.md](./medium/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)   [medium]<br/> 
+[130. Surrounded Regions.md](./medium/130.%20Surrounded%20Regions.md)   [medium]<br/> 
+[131. Palindrome Partitioning.md](./medium/131.%20Palindrome%20Partitioning.md)   [medium]<br/> 
+[133. Clone Graph.md](./medium/133.%20Clone%20Graph.md)   [medium]<br/> 
+[134. Gas Station.md](./medium/134.%20Gas%20Station.md)   [medium]<br/> 
 [136. Single Number.md](./easy/136.%20Single%20Number.md)   [easy]<br/> 
+[137. Single Number II.md](./medium/137.%20Single%20Number%20II.md)   [medium]<br/> 
+[138. Copy List with Random Pointer.md](./medium/138.%20Copy%20List%20with%20Random%20Pointer.md)   [medium]<br/> 
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   [easy]<br/> 
+[143. Reorder List.md](./medium/143.%20Reorder%20List.md)   [medium]<br/> 
+[147. Insertion Sort List.md](./medium/147.%20Insertion%20Sort%20List.md)   [medium]<br/> 
+[148. Sort List.md](./medium/148.%20Sort%20List.md)   [medium]<br/> 
 [152. Maximum Product Subarray.md](./medium/152.%20Maximum%20Product%20Subarray.md)   [medium]<br/> 
 [155. Min Stack.md](./easy/155.%20Min%20Stack.md)   [easy]<br/> 
 [160. Intersection of Two Linked Lists.md](./easy/160.%20Intersection%20of%20Two%20Linked%20Lists.md)   [easy]<br/> 
@@ -178,6 +188,7 @@ Leetcode solution <br/>
 [437. Path Sum III.md](./easy/437.%20Path%20Sum%20III.md)   [easy]<br/> 
 [441. Arranging Coins.md](./easy/441.%20Arranging%20Coins.md)   [easy]<br/> 
 [443. String Compression.md](./easy/443.%20String%20Compression.md)   [easy]<br/> 
+[445. Add Two Numbers II.md](./medium/445.%20Add%20Two%20Numbers%20II.md)   [medium]<br/> 
 [447. Number of Boomerangs.md](./easy/447.%20Number%20of%20Boomerangs.md)   [easy]<br/> 
 [448. Find All Numbers Disappeared in an Array.md](./easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)   [easy]<br/> 
 [453. Minimum Moves to Equal Array Elements.md](./easy/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)   [easy]<br/> 
@@ -257,6 +268,7 @@ Leetcode solution <br/>
 [717. 1-bit and 2-bit Characters.md](./easy/717.%201-bit%20and%202-bit%20Characters.md)   [easy]<br/> 
 [720. Longest Word in Dictionary.md](./easy/720.%20Longest%20Word%20in%20Dictionary.md)   [easy]<br/> 
 [724. Find Pivot Index.md](./easy/724.%20Find%20Pivot%20Index.md)   [easy]<br/> 
+[725. Split Linked List in Parts.md](./medium/725.%20Split%20Linked%20List%20in%20Parts.md)   [medium]<br/> 
 [728. Self Dividing Numbers.md](./easy/728.%20Self%20Dividing%20Numbers.md)   [easy]<br/> 
 [733. Flood Fill.md](./easy/733.%20Flood%20Fill.md)   [easy]<br/> 
 [744. Find Smallest Letter Greater Than Target.md](./easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)   [easy]<br/> 
@@ -360,4 +372,6 @@ Leetcode solution <br/>
 [1189. Maximum Number of Balloons.md](./easy/1189.%20Maximum%20Number%20of%20Balloons.md)   [easy]<br/> 
 [1200. Minimum Absolute Difference.md](./easy/1200.%20Minimum%20Absolute%20Difference.md)   [easy]<br/> 
 [1207. Unique Number of Occurrences.md](./easy/1207.%20Unique%20Number%20of%20Occurrences.md)   [easy]<br/> 
+[1217. Play with Chips.md](./easy/1217.%20Play%20with%20Chips.md)   [easy]<br/> 
+[1221. Split a String in Balanced Strings.md](./easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)   [easy]<br/> 
 [1232. Check If It Is a Straight Line.md](./easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)   [easy]<br/> 
