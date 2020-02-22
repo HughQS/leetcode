@@ -109,10 +109,15 @@ Leetcode solution <br/>
 [136. Single Number.md](./easy/136.%20Single%20Number.md)   &emsp;[easy]<br/> 
 [137. Single Number II.md](./medium/137.%20Single%20Number%20II.md)   &emsp;[medium]<br/> 
 [138. Copy List with Random Pointer.md](./medium/138.%20Copy%20List%20with%20Random%20Pointer.md)   &emsp;[medium]<br/> 
+[139. Word Break.md](./medium/139.%20Word%20Break.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [141. Linked List Cycle.md](./easy/141.%20Linked%20List%20Cycle.md)   &emsp;[easy]<br/> 
 [143. Reorder List.md](./medium/143.%20Reorder%20List.md)   &emsp;[medium]<br/> 
+[144. Binary Tree Preorder Traversal.md](./medium/144.%20Binary%20Tree%20Preorder%20Traversal.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[146. LRU Cache.md](./medium/146.%20LRU%20Cache.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [147. Insertion Sort List.md](./medium/147.%20Insertion%20Sort%20List.md)   &emsp;[medium]<br/> 
 [148. Sort List.md](./medium/148.%20Sort%20List.md)   &emsp;[medium]<br/> 
+[150. Evaluate Reverse Polish Notation.md](./medium/150.%20Evaluate%20Reverse%20Polish%20Notation.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[151. Reverse Words in a String.md](./medium/151.%20Reverse%20Words%20in%20a%20String.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [152. Maximum Product Subarray.md](./medium/152.%20Maximum%20Product%20Subarray.md)   &emsp;[medium]<br/> 
 [155. Min Stack.md](./easy/155.%20Min%20Stack.md)   &emsp;[easy]<br/> 
 [160. Intersection of Two Linked Lists.md](./easy/160.%20Intersection%20of%20Two%20Linked%20Lists.md)   &emsp;[easy]<br/> 
@@ -375,6 +380,6 @@ Leetcode solution <br/>
 [1217. Play with Chips.md](./easy/1217.%20Play%20with%20Chips.md)   &emsp;[easy]<br/> 
 [1221. Split a String in Balanced Strings.md](./easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)   &emsp;[easy]<br/> 
 [1232. Check If It Is a Straight Line.md](./easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)   &emsp;[easy]<br/> 
-[1237. Find Positive Integer Solution for a Given Equation.md](./easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
-[1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
-[1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
+[1237. Find Positive Integer Solution for a Given Equation.md](./easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)   &emsp;[easy]<br/> 
+[1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy]<br/> 
+[1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy]<br/> 
