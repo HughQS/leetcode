@@ -37,13 +37,13 @@ def generate_readme_content_lines(src_dir):
                 key = int(file_name.split('.')[0])  # 提取文件名前的数字作为键
                 value = [file_name, root, '']  # 文件名与根目录组合成list作为字典的值
                 if size_key_set_haved and (key not in key_set_haved):
-                    value = [file_name, root, '   [<span style="color:red">new !!!</span>]']
+                    value = [file_name, root, ' &emsp;![](./img/new20.png)']
                 dict.setdefault(key, value)
     # 对字典按键进行升序排序
     tup = sorted(dict.items(), key = lambda d : d[0])
     for i in range(len(tup)):
         content_lines += "[" + tup[i][1][0] + "](" + tup[i][1][1] + "/" + parse.quote(tup[i][1][0]) + \
-                         ")   [" + tup[i][1][1][2:] + "]" + tup[i][1][2] + "<br/> \n"
+                         ")   &emsp;[" + tup[i][1][1][2:] + "]" + tup[i][1][2] + "<br/> \n"
     return content_lines
 
 
