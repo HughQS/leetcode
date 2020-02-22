@@ -375,6 +375,6 @@ Leetcode solution <br/>
 [1217. Play with Chips.md](./easy/1217.%20Play%20with%20Chips.md)   &emsp;[easy]<br/> 
 [1221. Split a String in Balanced Strings.md](./easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)   &emsp;[easy]<br/> 
 [1232. Check If It Is a Straight Line.md](./easy/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)   &emsp;[easy]<br/> 
-[1237. Find Positive Integer Solution for a Given Equation.md](./easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)   &emsp;[easy] &emsp;![](./img/new20.png)<br/> 
-[1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy] &emsp;![](./img/new20.png)<br/> 
-[1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy] &emsp;![](./img/new20.png)<br/> 
+[1237. Find Positive Integer Solution for a Given Equation.md](./easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)   &emsp;[easy]<br/> 
+[1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy]<br/> 
+[1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy]<br/> 
