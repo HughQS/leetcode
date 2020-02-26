@@ -170,10 +170,11 @@ Leetcode solution <br/>
 [227. Basic Calculator II.md](./medium/227.%20Basic%20Calculator%20II.md)   &emsp;[medium]<br/> 
 [228. Summary Ranges.md](./medium/228.%20Summary%20Ranges.md)   &emsp;[medium]<br/> 
 [229. Majority Element II.md](./medium/229.%20Majority%20Element%20II.md)   &emsp;[medium]<br/> 
-[230. Kth Smallest Element in a BST.md](./medium/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[230. Kth Smallest Element in a BST.md](./medium/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)   &emsp;[medium]<br/> 
 [231. Power of Two.md](./easy/231.%20Power%20of%20Two.md)   &emsp;[easy]<br/> 
 [232. Implement Queue using Stacks.md](./easy/232.%20Implement%20Queue%20using%20Stacks.md)   &emsp;[easy]<br/> 
 [235. Lowest Common Ancestor of a Binary Search Tree.md](./easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   &emsp;[easy]<br/> 
+[236. Lowest Common Ancestor of a Binary Tree.md](./medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [237. Delete Node in a Linked List.md](./easy/237.%20Delete%20Node%20in%20a%20Linked%20List.md)   &emsp;[easy]<br/> 
 [238. Product of Array Except Self.md](./medium/238.%20Product%20of%20Array%20Except%20Self.md)   &emsp;[medium]<br/> 
 [257. Binary Tree Paths.md](./easy/257.%20Binary%20Tree%20Paths.md)   &emsp;[easy]<br/> 
@@ -208,7 +209,7 @@ Leetcode solution <br/>
 [414. Third Maximum Number.md](./easy/414.%20Third%20Maximum%20Number.md)   &emsp;[easy]<br/> 
 [415. Add Strings.md](./easy/415.%20Add%20Strings.md)   &emsp;[easy]<br/> 
 [429. N-ary Tree Level Order Traversal.md](./easy/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)   &emsp;[easy]<br/> 
-[430. Flatten a Multilevel Doubly Linked List.md](./medium/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[430. Flatten a Multilevel Doubly Linked List.md](./medium/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)   &emsp;[medium]<br/> 
 [434. Number of Segments in a String.md](./easy/434.%20Number%20of%20Segments%20in%20a%20String.md)   &emsp;[easy]<br/> 
 [437. Path Sum III.md](./easy/437.%20Path%20Sum%20III.md)   &emsp;[easy]<br/> 
 [441. Arranging Coins.md](./easy/441.%20Arranging%20Coins.md)   &emsp;[easy]<br/> 
@@ -216,6 +217,7 @@ Leetcode solution <br/>
 [445. Add Two Numbers II.md](./medium/445.%20Add%20Two%20Numbers%20II.md)   &emsp;[medium]<br/> 
 [447. Number of Boomerangs.md](./easy/447.%20Number%20of%20Boomerangs.md)   &emsp;[easy]<br/> 
 [448. Find All Numbers Disappeared in an Array.md](./easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)   &emsp;[easy]<br/> 
+[450. Delete Node in a BST.md](./medium/450.%20Delete%20Node%20in%20a%20BST.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [453. Minimum Moves to Equal Array Elements.md](./easy/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)   &emsp;[easy]<br/> 
 [455. Assign Cookies.md](./easy/455.%20Assign%20Cookies.md)   &emsp;[easy]<br/> 
 [459. Repeated Substring Pattern.md](./easy/459.%20Repeated%20Substring%20Pattern.md)   &emsp;[easy]<br/> 
@@ -232,7 +234,10 @@ Leetcode solution <br/>
 [504. Base 7.md](./easy/504.%20Base%207.md)   &emsp;[easy]<br/> 
 [506. Relative Ranks.md](./easy/506.%20Relative%20Ranks.md)   &emsp;[easy]<br/> 
 [507. Perfect Number.md](./easy/507.%20Perfect%20Number.md)   &emsp;[easy]<br/> 
+[508. Most Frequent Subtree Sum.md](./medium/508.%20Most%20Frequent%20Subtree%20Sum.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [509. Fibonacci Number.md](./easy/509.%20Fibonacci%20Number.md)   &emsp;[easy]<br/> 
+[513. Find Bottom Left Tree Value.md](./medium/513.%20Find%20Bottom%20Left%20Tree%20Value.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[515. Find Largest Value in Each Tree Row.md](./medium/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [520. Detect Capital.md](./easy/520.%20Detect%20Capital.md)   &emsp;[easy]<br/> 
 [521. Longest Uncommon Subsequence I.md](./easy/521.%20Longest%20Uncommon%20Subsequence%20I.md)   &emsp;[easy]<br/> 
 [530. Minimum Absolute Difference in BST.md](./easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)   &emsp;[easy]<br/> 
@@ -261,12 +266,14 @@ Leetcode solution <br/>
 [606. Construct String from Binary Tree.md](./easy/606.%20Construct%20String%20from%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [617. Merge Two Binary Trees.md](./easy/617.%20Merge%20Two%20Binary%20Trees.md)   &emsp;[easy]<br/> 
 [620. Not Boring Movies.md](./easy/620.%20Not%20Boring%20Movies.md)   &emsp;[easy]<br/> 
+[623. Add One Row to Tree.md](./medium/623.%20Add%20One%20Row%20to%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [627. Swap Salary.md](./easy/627.%20Swap%20Salary.md)   &emsp;[easy]<br/> 
 [628. Maximum Product of Three Numbers.md](./easy/628.%20Maximum%20Product%20of%20Three%20Numbers.md)   &emsp;[easy]<br/> 
 [633. Sum of Square Numbers.md](./easy/633.%20Sum%20of%20Square%20Numbers.md)   &emsp;[easy]<br/> 
 [637. Average of Levels in Binary Tree.md](./easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [643. Maximum Average Subarray I.md](./easy/643.%20Maximum%20Average%20Subarray%20I.md)   &emsp;[easy]<br/> 
 [645. Set Mismatch.md](./easy/645.%20Set%20Mismatch.md)   &emsp;[easy]<br/> 
+[652. Find Duplicate Subtrees.md](./medium/652.%20Find%20Duplicate%20Subtrees.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [653. Two Sum IV - Input is a BST.md](./easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)   &emsp;[easy]<br/> 
 [657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   &emsp;[easy]<br/> 
 [658. Find K Closest Elements.md](./medium/658.%20Find%20K%20Closest%20Elements.md)   &emsp;[medium]<br/> 
@@ -311,7 +318,7 @@ Leetcode solution <br/>
 [806. Number of Lines To Write String.md](./easy/806.%20Number%20of%20Lines%20To%20Write%20String.md)   &emsp;[easy]<br/> 
 [811. Subdomain Visit Count.md](./easy/811.%20Subdomain%20Visit%20Count.md)   &emsp;[easy]<br/> 
 [812. Largest Triangle Area.md](./easy/812.%20Largest%20Triangle%20Area.md)   &emsp;[easy]<br/> 
-[817. Linked List Components.md](./medium/817.%20Linked%20List%20Components.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[817. Linked List Components.md](./medium/817.%20Linked%20List%20Components.md)   &emsp;[medium]<br/> 
 [819. Most Common Word.md](./easy/819.%20Most%20Common%20Word.md)   &emsp;[easy]<br/> 
 [821. Shortest Distance to a Character.md](./easy/821.%20Shortest%20Distance%20to%20a%20Character.md)   &emsp;[easy]<br/> 
 [824. Goat Latin.md](./easy/824.%20Goat%20Latin.md)   &emsp;[easy]<br/> 
@@ -368,7 +375,7 @@ Leetcode solution <br/>
 [1010. Pairs of Songs With Total Durations Divisible by 60.md](./easy/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)   &emsp;[easy]<br/> 
 [1013. Partition Array Into Three Parts With Equal Sum.md](./easy/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md)   &emsp;[easy]<br/> 
 [1018. Binary Prefix Divisible By 5.md](./easy/1018.%20Binary%20Prefix%20Divisible%20By%205.md)   &emsp;[easy]<br/> 
-[1019. Next Greater Node In Linked List.md](./medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1019. Next Greater Node In Linked List.md](./medium/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md)   &emsp;[medium]<br/> 
 [1021. Remove Outermost Parentheses.md](./easy/1021.%20Remove%20Outermost%20Parentheses.md)   &emsp;[easy]<br/> 
 [1022. Sum of Root To Leaf Binary Numbers.md](./easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)   &emsp;[easy]<br/> 
 [1025. Divisor Game.md](./easy/1025.%20Divisor%20Game.md)   &emsp;[easy]<br/> 
@@ -392,7 +399,7 @@ Leetcode solution <br/>
 [1154. Day of the Year.md](./easy/1154.%20Day%20of%20the%20Year.md)   &emsp;[easy]<br/> 
 [1160. Find Words That Can Be Formed by Characters.md](./easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.md)   &emsp;[easy]<br/> 
 [1170. Compare Strings by Frequency of the Smallest Character.md](./easy/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.md)   &emsp;[easy]<br/> 
-[1171. Remove Zero Sum Consecutive Nodes from Linked List.md](./medium/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1171. Remove Zero Sum Consecutive Nodes from Linked List.md](./medium/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.md)   &emsp;[medium]<br/> 
 [1175. Prime Arrangements.md](./easy/1175.%20Prime%20Arrangements.md)   &emsp;[easy]<br/> 
 [1179. Reformat Department Table.md](./easy/1179.%20Reformat%20Department%20Table.md)   &emsp;[easy]<br/> 
 [1184. Distance Between Bus Stops.md](./easy/1184.%20Distance%20Between%20Bus%20Stops.md)   &emsp;[easy]<br/> 
@@ -406,4 +413,4 @@ Leetcode solution <br/>
 [1237. Find Positive Integer Solution for a Given Equation.md](./easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)   &emsp;[easy]<br/> 
 [1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy]<br/> 
 [1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy]<br/> 
-[1290. Convert Binary Number in a Linked List to Integer.md](./easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
+[1290. Convert Binary Number in a Linked List to Integer.md](./easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)   &emsp;[easy]<br/> 
