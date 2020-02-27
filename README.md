@@ -174,7 +174,7 @@ Leetcode solution <br/>
 [231. Power of Two.md](./easy/231.%20Power%20of%20Two.md)   &emsp;[easy]<br/> 
 [232. Implement Queue using Stacks.md](./easy/232.%20Implement%20Queue%20using%20Stacks.md)   &emsp;[easy]<br/> 
 [235. Lowest Common Ancestor of a Binary Search Tree.md](./easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   &emsp;[easy]<br/> 
-[236. Lowest Common Ancestor of a Binary Tree.md](./medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[236. Lowest Common Ancestor of a Binary Tree.md](./medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)   &emsp;[medium]<br/> 
 [237. Delete Node in a Linked List.md](./easy/237.%20Delete%20Node%20in%20a%20Linked%20List.md)   &emsp;[easy]<br/> 
 [238. Product of Array Except Self.md](./medium/238.%20Product%20of%20Array%20Except%20Self.md)   &emsp;[medium]<br/> 
 [257. Binary Tree Paths.md](./easy/257.%20Binary%20Tree%20Paths.md)   &emsp;[easy]<br/> 
@@ -208,6 +208,7 @@ Leetcode solution <br/>
 [409. Longest Palindrome.md](./easy/409.%20Longest%20Palindrome.md)   &emsp;[easy]<br/> 
 [414. Third Maximum Number.md](./easy/414.%20Third%20Maximum%20Number.md)   &emsp;[easy]<br/> 
 [415. Add Strings.md](./easy/415.%20Add%20Strings.md)   &emsp;[easy]<br/> 
+[424. Longest Repeating Character Replacement.md](./medium/424.%20Longest%20Repeating%20Character%20Replacement.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [429. N-ary Tree Level Order Traversal.md](./easy/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)   &emsp;[easy]<br/> 
 [430. Flatten a Multilevel Doubly Linked List.md](./medium/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)   &emsp;[medium]<br/> 
 [434. Number of Segments in a String.md](./easy/434.%20Number%20of%20Segments%20in%20a%20String.md)   &emsp;[easy]<br/> 
@@ -217,7 +218,7 @@ Leetcode solution <br/>
 [445. Add Two Numbers II.md](./medium/445.%20Add%20Two%20Numbers%20II.md)   &emsp;[medium]<br/> 
 [447. Number of Boomerangs.md](./easy/447.%20Number%20of%20Boomerangs.md)   &emsp;[easy]<br/> 
 [448. Find All Numbers Disappeared in an Array.md](./easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)   &emsp;[easy]<br/> 
-[450. Delete Node in a BST.md](./medium/450.%20Delete%20Node%20in%20a%20BST.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[450. Delete Node in a BST.md](./medium/450.%20Delete%20Node%20in%20a%20BST.md)   &emsp;[medium]<br/> 
 [453. Minimum Moves to Equal Array Elements.md](./easy/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)   &emsp;[easy]<br/> 
 [455. Assign Cookies.md](./easy/455.%20Assign%20Cookies.md)   &emsp;[easy]<br/> 
 [459. Repeated Substring Pattern.md](./easy/459.%20Repeated%20Substring%20Pattern.md)   &emsp;[easy]<br/> 
@@ -234,12 +235,13 @@ Leetcode solution <br/>
 [504. Base 7.md](./easy/504.%20Base%207.md)   &emsp;[easy]<br/> 
 [506. Relative Ranks.md](./easy/506.%20Relative%20Ranks.md)   &emsp;[easy]<br/> 
 [507. Perfect Number.md](./easy/507.%20Perfect%20Number.md)   &emsp;[easy]<br/> 
-[508. Most Frequent Subtree Sum.md](./medium/508.%20Most%20Frequent%20Subtree%20Sum.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[508. Most Frequent Subtree Sum.md](./medium/508.%20Most%20Frequent%20Subtree%20Sum.md)   &emsp;[medium]<br/> 
 [509. Fibonacci Number.md](./easy/509.%20Fibonacci%20Number.md)   &emsp;[easy]<br/> 
-[513. Find Bottom Left Tree Value.md](./medium/513.%20Find%20Bottom%20Left%20Tree%20Value.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
-[515. Find Largest Value in Each Tree Row.md](./medium/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[513. Find Bottom Left Tree Value.md](./medium/513.%20Find%20Bottom%20Left%20Tree%20Value.md)   &emsp;[medium]<br/> 
+[515. Find Largest Value in Each Tree Row.md](./medium/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)   &emsp;[medium]<br/> 
 [520. Detect Capital.md](./easy/520.%20Detect%20Capital.md)   &emsp;[easy]<br/> 
 [521. Longest Uncommon Subsequence I.md](./easy/521.%20Longest%20Uncommon%20Subsequence%20I.md)   &emsp;[easy]<br/> 
+[524. Longest Word in Dictionary through Deleting.md](./medium/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [530. Minimum Absolute Difference in BST.md](./easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.md)   &emsp;[easy]<br/> 
 [532. K-diff Pairs in an Array.md](./easy/532.%20K-diff%20Pairs%20in%20an%20Array.md)   &emsp;[easy]<br/> 
 [538. Convert BST to Greater Tree.md](./easy/538.%20Convert%20BST%20to%20Greater%20Tree.md)   &emsp;[easy]<br/> 
@@ -266,15 +268,16 @@ Leetcode solution <br/>
 [606. Construct String from Binary Tree.md](./easy/606.%20Construct%20String%20from%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [617. Merge Two Binary Trees.md](./easy/617.%20Merge%20Two%20Binary%20Trees.md)   &emsp;[easy]<br/> 
 [620. Not Boring Movies.md](./easy/620.%20Not%20Boring%20Movies.md)   &emsp;[easy]<br/> 
-[623. Add One Row to Tree.md](./medium/623.%20Add%20One%20Row%20to%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[623. Add One Row to Tree.md](./medium/623.%20Add%20One%20Row%20to%20Tree.md)   &emsp;[medium]<br/> 
 [627. Swap Salary.md](./easy/627.%20Swap%20Salary.md)   &emsp;[easy]<br/> 
 [628. Maximum Product of Three Numbers.md](./easy/628.%20Maximum%20Product%20of%20Three%20Numbers.md)   &emsp;[easy]<br/> 
 [633. Sum of Square Numbers.md](./easy/633.%20Sum%20of%20Square%20Numbers.md)   &emsp;[easy]<br/> 
 [637. Average of Levels in Binary Tree.md](./easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [643. Maximum Average Subarray I.md](./easy/643.%20Maximum%20Average%20Subarray%20I.md)   &emsp;[easy]<br/> 
 [645. Set Mismatch.md](./easy/645.%20Set%20Mismatch.md)   &emsp;[easy]<br/> 
-[652. Find Duplicate Subtrees.md](./medium/652.%20Find%20Duplicate%20Subtrees.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[652. Find Duplicate Subtrees.md](./medium/652.%20Find%20Duplicate%20Subtrees.md)   &emsp;[medium]<br/> 
 [653. Two Sum IV - Input is a BST.md](./easy/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)   &emsp;[easy]<br/> 
+[654. Maximum Binary Tree.md](./medium/654.%20Maximum%20Binary%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   &emsp;[easy]<br/> 
 [658. Find K Closest Elements.md](./medium/658.%20Find%20K%20Closest%20Elements.md)   &emsp;[medium]<br/> 
 [661. Image Smoother.md](./easy/661.%20Image%20Smoother.md)   &emsp;[easy]<br/> 
