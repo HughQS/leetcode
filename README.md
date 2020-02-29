@@ -177,7 +177,7 @@ Leetcode solution <br/>
 [236. Lowest Common Ancestor of a Binary Tree.md](./medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)   &emsp;[medium]<br/> 
 [237. Delete Node in a Linked List.md](./easy/237.%20Delete%20Node%20in%20a%20Linked%20List.md)   &emsp;[easy]<br/> 
 [238. Product of Array Except Self.md](./medium/238.%20Product%20of%20Array%20Except%20Self.md)   &emsp;[medium]<br/> 
-[240. Search a 2D Matrix II.md](./medium/240.%20Search%20a%202D%20Matrix%20II.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[240. Search a 2D Matrix II.md](./medium/240.%20Search%20a%202D%20Matrix%20II.md)   &emsp;[medium]<br/> 
 [257. Binary Tree Paths.md](./easy/257.%20Binary%20Tree%20Paths.md)   &emsp;[easy]<br/> 
 [258. Add Digits.md](./easy/258.%20Add%20Digits.md)   &emsp;[easy]<br/> 
 [260. Single Number III.md](./medium/260.%20Single%20Number%20III.md)   &emsp;[medium]<br/> 
@@ -191,7 +191,7 @@ Leetcode solution <br/>
 [299. Bulls and Cows.md](./easy/299.%20Bulls%20and%20Cows.md)   &emsp;[easy]<br/> 
 [303. Range Sum Query - Immutable.md](./easy/303.%20Range%20Sum%20Query%20-%20Immutable.md)   &emsp;[easy]<br/> 
 [326. Power of Three.md](./easy/326.%20Power%20of%20Three.md)   &emsp;[easy]<br/> 
-[337. House Robber III.md](./medium/337.%20House%20Robber%20III.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[337. House Robber III.md](./medium/337.%20House%20Robber%20III.md)   &emsp;[medium]<br/> 
 [342. Power of Four.md](./easy/342.%20Power%20of%20Four.md)   &emsp;[easy]<br/> 
 [344. Reverse String.md](./easy/344.%20Reverse%20String.md)   &emsp;[easy]<br/> 
 [345. Reverse Vowels of a String.md](./easy/345.%20Reverse%20Vowels%20of%20a%20String.md)   &emsp;[easy]<br/> 
@@ -283,6 +283,7 @@ Leetcode solution <br/>
 [657. Robot Return to Origin.md](./easy/657.%20Robot%20Return%20to%20Origin.md)   &emsp;[easy]<br/> 
 [658. Find K Closest Elements.md](./medium/658.%20Find%20K%20Closest%20Elements.md)   &emsp;[medium]<br/> 
 [661. Image Smoother.md](./easy/661.%20Image%20Smoother.md)   &emsp;[easy]<br/> 
+[662. Maximum Width of Binary Tree.md](./medium/662.%20Maximum%20Width%20of%20Binary%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [665. Non-decreasing Array.md](./easy/665.%20Non-decreasing%20Array.md)   &emsp;[easy]<br/> 
 [669. Trim a Binary Search Tree.md](./easy/669.%20Trim%20a%20Binary%20Search%20Tree.md)   &emsp;[easy]<br/> 
 [671. Second Minimum Node In a Binary Tree.md](./easy/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)   &emsp;[easy]<br/> 
@@ -419,4 +420,4 @@ Leetcode solution <br/>
 [1252. Cells with Odd Values in a Matrix.md](./easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)   &emsp;[easy]<br/> 
 [1260. Shift 2D Grid.md](./easy/1260.%20Shift%202D%20Grid.md)   &emsp;[easy]<br/> 
 [1290. Convert Binary Number in a Linked List to Integer.md](./easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)   &emsp;[easy]<br/> 
-[1360. Number of Days Between Two Dates.md](./easy/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
+[1360. Number of Days Between Two Dates.md](./easy/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)   &emsp;[easy]<br/> 
