@@ -220,7 +220,7 @@ Leetcode solution <br/>
 [445. Add Two Numbers II.md](./medium/445.%20Add%20Two%20Numbers%20II.md)   &emsp;[medium]<br/> 
 [447. Number of Boomerangs.md](./easy/447.%20Number%20of%20Boomerangs.md)   &emsp;[easy]<br/> 
 [448. Find All Numbers Disappeared in an Array.md](./easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)   &emsp;[easy]<br/> 
-[449. Serialize and Deserialize BST.md](./medium/449.%20Serialize%20and%20Deserialize%20BST.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[449. Serialize and Deserialize BST.md](./medium/449.%20Serialize%20and%20Deserialize%20BST.md)   &emsp;[medium]<br/> 
 [450. Delete Node in a BST.md](./medium/450.%20Delete%20Node%20in%20a%20BST.md)   &emsp;[medium]<br/> 
 [453. Minimum Moves to Equal Array Elements.md](./easy/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)   &emsp;[easy]<br/> 
 [455. Assign Cookies.md](./easy/455.%20Assign%20Cookies.md)   &emsp;[easy]<br/> 
@@ -339,6 +339,8 @@ Leetcode solution <br/>
 [852. Peak Index in a Mountain Array.md](./easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)   &emsp;[easy]<br/> 
 [859. Buddy Strings.md](./easy/859.%20Buddy%20Strings.md)   &emsp;[easy]<br/> 
 [860. Lemonade Change.md](./easy/860.%20Lemonade%20Change.md)   &emsp;[easy]<br/> 
+[863. All Nodes Distance K in Binary Tree.md](./medium/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[865. Smallest Subtree with all the Deepest Nodes.md](./medium/865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [867. Transpose Matrix.md](./easy/867.%20Transpose%20Matrix.md)   &emsp;[easy]<br/> 
 [868. Binary Gap.md](./easy/868.%20Binary%20Gap.md)   &emsp;[easy]<br/> 
 [872. Leaf-Similar Trees.md](./easy/872.%20Leaf-Similar%20Trees.md)   &emsp;[easy]<br/> 
