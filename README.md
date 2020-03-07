@@ -216,7 +216,7 @@ Leetcode solution <br/>
 [434. Number of Segments in a String.md](./easy/434.%20Number%20of%20Segments%20in%20a%20String.md)   &emsp;[easy]<br/> 
 [437. Path Sum III.md](./easy/437.%20Path%20Sum%20III.md)   &emsp;[easy]<br/> 
 [441. Arranging Coins.md](./easy/441.%20Arranging%20Coins.md)   &emsp;[easy]<br/> 
-[442. Find All Duplicates in an Array.md](./medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[442. Find All Duplicates in an Array.md](./medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)   &emsp;[medium]<br/> 
 [443. String Compression.md](./easy/443.%20String%20Compression.md)   &emsp;[easy]<br/> 
 [445. Add Two Numbers II.md](./medium/445.%20Add%20Two%20Numbers%20II.md)   &emsp;[medium]<br/> 
 [447. Number of Boomerangs.md](./easy/447.%20Number%20of%20Boomerangs.md)   &emsp;[easy]<br/> 
@@ -391,7 +391,8 @@ Leetcode solution <br/>
 [1021. Remove Outermost Parentheses.md](./easy/1021.%20Remove%20Outermost%20Parentheses.md)   &emsp;[easy]<br/> 
 [1022. Sum of Root To Leaf Binary Numbers.md](./easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)   &emsp;[easy]<br/> 
 [1025. Divisor Game.md](./easy/1025.%20Divisor%20Game.md)   &emsp;[easy]<br/> 
-[1028. Recover a Tree From Preorder Traversal.md](./hard/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)   &emsp;[hard] &emsp;![](./img/new18.png)<br/> 
+[1026. Maximum Difference Between Node and Ancestor.md](./medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1028. Recover a Tree From Preorder Traversal.md](./hard/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)   &emsp;[hard]<br/> 
 [1029. Two City Scheduling.md](./easy/1029.%20Two%20City%20Scheduling.md)   &emsp;[easy]<br/> 
 [1030. Matrix Cells in Distance Order.md](./easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)   &emsp;[easy]<br/> 
 [1033. Moving Stones Until Consecutive.md](./easy/1033.%20Moving%20Stones%20Until%20Consecutive.md)   &emsp;[easy]<br/> 
@@ -431,7 +432,7 @@ Leetcode solution <br/>
 [1290. Convert Binary Number in a Linked List to Integer.md](./easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)   &emsp;[easy]<br/> 
 [1302. Deepest Leaves Sum.md](./medium/1302.%20Deepest%20Leaves%20Sum.md)   &emsp;[medium]<br/> 
 [1305. All Elements in Two Binary Search Trees.md](./medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md)   &emsp;[medium]<br/> 
-[1315. Sum of Nodes with Even-Valued Grandparent.md](./medium/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1315. Sum of Nodes with Even-Valued Grandparent.md](./medium/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)   &emsp;[medium]<br/> 
 [1325. Delete Leaves With a Given Value.md](./medium/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.md)   &emsp;[medium]<br/> 
 [1339. Maximum Product of Splitted Binary Tree.md](./medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md)   &emsp;[medium]<br/> 
 [1360. Number of Days Between Two Dates.md](./easy/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)   &emsp;[easy]<br/> 
