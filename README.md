@@ -391,7 +391,7 @@ Leetcode solution <br/>
 [1021. Remove Outermost Parentheses.md](./easy/1021.%20Remove%20Outermost%20Parentheses.md)   &emsp;[easy]<br/> 
 [1022. Sum of Root To Leaf Binary Numbers.md](./easy/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)   &emsp;[easy]<br/> 
 [1025. Divisor Game.md](./easy/1025.%20Divisor%20Game.md)   &emsp;[easy]<br/> 
-[1026. Maximum Difference Between Node and Ancestor.md](./medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1026. Maximum Difference Between Node and Ancestor.md](./medium/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)   &emsp;[medium]<br/> 
 [1028. Recover a Tree From Preorder Traversal.md](./hard/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)   &emsp;[hard]<br/> 
 [1029. Two City Scheduling.md](./easy/1029.%20Two%20City%20Scheduling.md)   &emsp;[easy]<br/> 
 [1030. Matrix Cells in Distance Order.md](./easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.md)   &emsp;[easy]<br/> 
@@ -437,3 +437,6 @@ Leetcode solution <br/>
 [1339. Maximum Product of Splitted Binary Tree.md](./medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md)   &emsp;[medium]<br/> 
 [1360. Number of Days Between Two Dates.md](./easy/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)   &emsp;[easy]<br/> 
 [1367. Linked List in Binary Tree.md](./medium/1367.%20Linked%20List%20in%20Binary%20Tree.md)   &emsp;[medium]<br/> 
+[1374. Generate a String With Characters That Have Odd Counts.md](./easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
+[1375. Bulb Switcher III.md](./medium/1375.%20Bulb%20Switcher%20III.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1376. Time Needed to Inform All Employees.md](./medium/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
