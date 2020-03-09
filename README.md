@@ -165,6 +165,7 @@ Leetcode solution <br/>
 [215. Kth Largest Element in an Array.md](./medium/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)   &emsp;[medium]<br/> 
 [217. Contains Duplicate.md](./easy/217.%20Contains%20Duplicate.md)   &emsp;[easy]<br/> 
 [219. Contains Duplicate II.md](./easy/219.%20Contains%20Duplicate%20II.md)   &emsp;[easy]<br/> 
+[220. Contains Duplicate III.md](./medium/220.%20Contains%20Duplicate%20III.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [225. Implement Stack using Queues.md](./easy/225.%20Implement%20Stack%20using%20Queues.md)   &emsp;[easy]<br/> 
 [226. Invert Binary Tree.md](./easy/226.%20Invert%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [227. Basic Calculator II.md](./medium/227.%20Basic%20Calculator%20II.md)   &emsp;[medium]<br/> 
@@ -232,6 +233,7 @@ Leetcode solution <br/>
 [476. Number Complement.md](./easy/476.%20Number%20Complement.md)   &emsp;[easy]<br/> 
 [482. License Key Formatting.md](./easy/482.%20License%20Key%20Formatting.md)   &emsp;[easy]<br/> 
 [485. Max Consecutive Ones.md](./easy/485.%20Max%20Consecutive%20Ones.md)   &emsp;[easy]<br/> 
+[491. Increasing Subsequences.md](./medium/491.%20Increasing%20Subsequences.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [492. Construct the Rectangle.md](./easy/492.%20Construct%20the%20Rectangle.md)   &emsp;[easy]<br/> 
 [496. Next Greater Element I.md](./easy/496.%20Next%20Greater%20Element%20I.md)   &emsp;[easy]<br/> 
 [500. Keyboard Row.md](./easy/500.%20Keyboard%20Row.md)   &emsp;[easy]<br/> 
@@ -437,6 +439,6 @@ Leetcode solution <br/>
 [1339. Maximum Product of Splitted Binary Tree.md](./medium/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md)   &emsp;[medium]<br/> 
 [1360. Number of Days Between Two Dates.md](./easy/1360.%20Number%20of%20Days%20Between%20Two%20Dates.md)   &emsp;[easy]<br/> 
 [1367. Linked List in Binary Tree.md](./medium/1367.%20Linked%20List%20in%20Binary%20Tree.md)   &emsp;[medium]<br/> 
-[1374. Generate a String With Characters That Have Odd Counts.md](./easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.md)   &emsp;[easy] &emsp;![](./img/new18.png)<br/> 
-[1375. Bulb Switcher III.md](./medium/1375.%20Bulb%20Switcher%20III.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
-[1376. Time Needed to Inform All Employees.md](./medium/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[1374. Generate a String With Characters That Have Odd Counts.md](./easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.md)   &emsp;[easy]<br/> 
+[1375. Bulb Switcher III.md](./medium/1375.%20Bulb%20Switcher%20III.md)   &emsp;[medium]<br/> 
+[1376. Time Needed to Inform All Employees.md](./medium/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md)   &emsp;[medium]<br/> 
