@@ -165,7 +165,7 @@ Leetcode solution <br/>
 [215. Kth Largest Element in an Array.md](./medium/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)   &emsp;[medium]<br/> 
 [217. Contains Duplicate.md](./easy/217.%20Contains%20Duplicate.md)   &emsp;[easy]<br/> 
 [219. Contains Duplicate II.md](./easy/219.%20Contains%20Duplicate%20II.md)   &emsp;[easy]<br/> 
-[220. Contains Duplicate III.md](./medium/220.%20Contains%20Duplicate%20III.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[220. Contains Duplicate III.md](./medium/220.%20Contains%20Duplicate%20III.md)   &emsp;[medium]<br/> 
 [225. Implement Stack using Queues.md](./easy/225.%20Implement%20Stack%20using%20Queues.md)   &emsp;[easy]<br/> 
 [226. Invert Binary Tree.md](./easy/226.%20Invert%20Binary%20Tree.md)   &emsp;[easy]<br/> 
 [227. Basic Calculator II.md](./medium/227.%20Basic%20Calculator%20II.md)   &emsp;[medium]<br/> 
@@ -184,6 +184,8 @@ Leetcode solution <br/>
 [260. Single Number III.md](./medium/260.%20Single%20Number%20III.md)   &emsp;[medium]<br/> 
 [263. Ugly Number.md](./easy/263.%20Ugly%20Number.md)   &emsp;[easy]<br/> 
 [268. Missing Number.md](./easy/268.%20Missing%20Number.md)   &emsp;[easy]<br/> 
+[274. H-Index.md](./medium/274.%20H-Index.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[275. H-Index II.md](./medium/275.%20H-Index%20II.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [278. First Bad Version.md](./easy/278.%20First%20Bad%20Version.md)   &emsp;[easy]<br/> 
 [283. Move Zeroes.md](./easy/283.%20Move%20Zeroes.md)   &emsp;[easy]<br/> 
 [287. Find the Duplicate Number.md](./medium/287.%20Find%20the%20Duplicate%20Number.md)   &emsp;[medium]<br/> 
@@ -233,7 +235,7 @@ Leetcode solution <br/>
 [476. Number Complement.md](./easy/476.%20Number%20Complement.md)   &emsp;[easy]<br/> 
 [482. License Key Formatting.md](./easy/482.%20License%20Key%20Formatting.md)   &emsp;[easy]<br/> 
 [485. Max Consecutive Ones.md](./easy/485.%20Max%20Consecutive%20Ones.md)   &emsp;[easy]<br/> 
-[491. Increasing Subsequences.md](./medium/491.%20Increasing%20Subsequences.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[491. Increasing Subsequences.md](./medium/491.%20Increasing%20Subsequences.md)   &emsp;[medium]<br/> 
 [492. Construct the Rectangle.md](./easy/492.%20Construct%20the%20Rectangle.md)   &emsp;[easy]<br/> 
 [496. Next Greater Element I.md](./easy/496.%20Next%20Greater%20Element%20I.md)   &emsp;[easy]<br/> 
 [500. Keyboard Row.md](./easy/500.%20Keyboard%20Row.md)   &emsp;[easy]<br/> 
