@@ -183,9 +183,10 @@ Leetcode solution <br/>
 [258. Add Digits.md](./easy/258.%20Add%20Digits.md)   &emsp;[easy]<br/> 
 [260. Single Number III.md](./medium/260.%20Single%20Number%20III.md)   &emsp;[medium]<br/> 
 [263. Ugly Number.md](./easy/263.%20Ugly%20Number.md)   &emsp;[easy]<br/> 
+[264. Ugly Number II.md](./medium/264.%20Ugly%20Number%20II.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
 [268. Missing Number.md](./easy/268.%20Missing%20Number.md)   &emsp;[easy]<br/> 
-[274. H-Index.md](./medium/274.%20H-Index.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
-[275. H-Index II.md](./medium/275.%20H-Index%20II.md)   &emsp;[medium] &emsp;![](./img/new18.png)<br/> 
+[274. H-Index.md](./medium/274.%20H-Index.md)   &emsp;[medium]<br/> 
+[275. H-Index II.md](./medium/275.%20H-Index%20II.md)   &emsp;[medium]<br/> 
 [278. First Bad Version.md](./easy/278.%20First%20Bad%20Version.md)   &emsp;[easy]<br/> 
 [283. Move Zeroes.md](./easy/283.%20Move%20Zeroes.md)   &emsp;[easy]<br/> 
 [287. Find the Duplicate Number.md](./medium/287.%20Find%20the%20Duplicate%20Number.md)   &emsp;[medium]<br/> 
